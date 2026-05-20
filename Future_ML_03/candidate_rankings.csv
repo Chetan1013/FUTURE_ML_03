@@ -1,0 +1,2485 @@
+Category,Match_Score,Extracted_Skills
+CONSULTANT,16.669939933529655,"['python', 'java', 'sql', 'machine learning', 'data analysis']"
+ENGINEERING,16.44454866794387,"['python', 'sql', 'machine learning', 'tableau', 'excel', 'data analysis']"
+DIGITAL-MEDIA,16.351120333508263,"['python', 'java', 'sql', 'power bi', 'tableau', 'excel']"
+BANKING,15.552152433486729,"['python', 'sql', 'machine learning']"
+INFORMATION-TECHNOLOGY,15.2925818717767,"['python', 'aws', 'communication']"
+ARTS,14.996022139444904,['leadership']
+CONSULTANT,14.98733871329508,"['java', 'sql', 'tableau', 'excel', 'communication']"
+AGRICULTURE,14.369992686519709,"['python', 'java', 'sql', 'aws', 'leadership']"
+DESIGNER,13.163745317810086,[]
+INFORMATION-TECHNOLOGY,12.75070041254002,"['python', 'sql', 'tableau', 'excel', 'aws', 'data analysis']"
+HEALTHCARE,12.701582861426939,['excel']
+SALES,11.747726301430912,"['java', 'sql', 'tableau', 'excel', 'communication']"
+INFORMATION-TECHNOLOGY,11.51820491011939,"['sql', 'communication', 'leadership']"
+TEACHER,11.064818095365066,"['excel', 'communication', 'leadership']"
+TEACHER,10.823268994690807,['communication']
+AUTOMOBILE,10.688513502308632,"['python', 'sql', 'tableau', 'excel', 'leadership', 'data analysis']"
+BUSINESS-DEVELOPMENT,10.470827369919878,"['python', 'java', 'sql', 'tableau', 'excel', 'leadership']"
+AUTOMOBILE,10.365213054145997,"['python', 'java', 'sql', 'machine learning', 'excel', 'data analysis']"
+TEACHER,10.214498637100053,"['excel', 'communication', 'leadership']"
+TEACHER,10.032955406628934,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,9.945726401376927,"['java', 'sql', 'leadership']"
+INFORMATION-TECHNOLOGY,9.402442304134091,"['sql', 'tableau', 'leadership']"
+AGRICULTURE,9.23559944176743,"['python', 'java', 'sql', 'tableau', 'excel', 'tensorflow', 'communication', 'leadership', 'react', 'mongodb']"
+INFORMATION-TECHNOLOGY,8.744702224828064,"['sql', 'excel', 'aws', 'communication']"
+BANKING,8.378079118056174,"['java', 'sql', 'communication', 'data analysis']"
+BUSINESS-DEVELOPMENT,8.364746381902496,"['python', 'sql', 'excel', 'communication', 'leadership']"
+TEACHER,8.320276280752315,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,8.247149942342007,"['excel', 'communication', 'leadership']"
+ENGINEERING,8.126910458791816,"['python', 'sql', 'tableau']"
+AVIATION,8.074927624576448,"['python', 'sql', 'excel']"
+SALES,8.020192193863345,"['machine learning', 'tableau', 'excel', 'communication', 'data analysis']"
+ACCOUNTANT,7.997957733930202,"['excel', 'communication']"
+DESIGNER,7.957980423879829,['excel']
+AVIATION,7.913924479422768,[]
+TEACHER,7.859047781763298,[]
+CONSULTANT,7.844222244532897,"['java', 'sql', 'communication']"
+DESIGNER,7.7603305070305755,"['excel', 'communication', 'leadership']"
+ARTS,7.73532190960407,"['excel', 'communication', 'leadership', 'data analysis']"
+CONSULTANT,7.719053872084554,"['java', 'sql', 'excel']"
+TEACHER,7.702770563010724,['leadership']
+ENGINEERING,7.6982926575276265,"['java', 'sql', 'communication', 'leadership']"
+ENGINEERING,7.637714706863252,"['python', 'java', 'sql', 'aws', 'mongodb']"
+DESIGNER,7.623434285197462,"['excel', 'communication', 'leadership', 'data analysis']"
+BANKING,7.481754074841692,"['java', 'sql', 'excel', 'communication']"
+TEACHER,7.454945469126321,"['excel', 'communication', 'leadership']"
+TEACHER,7.398960003931842,"['excel', 'communication']"
+ARTS,7.382938122449382,"['excel', 'communication']"
+AGRICULTURE,7.257552792725773,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,7.040068085216797,"['python', 'java', 'sql', 'excel', 'communication']"
+PUBLIC-RELATIONS,7.006032634353292,"['communication', 'leadership']"
+ACCOUNTANT,6.9662849177042085,"['excel', 'communication']"
+TEACHER,6.869594055510459,[]
+AGRICULTURE,6.868154282726473,"['excel', 'communication']"
+TEACHER,6.858546757953915,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,6.773402474477162,"['sql', 'excel', 'communication', 'leadership']"
+APPAREL,6.771995820500841,"['excel', 'communication']"
+SALES,6.747787171471237,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,6.705158824164009,"['sql', 'communication', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,6.701331556998554,"['python', 'sql', 'excel', 'communication', 'leadership']"
+CONSULTANT,6.67601706903487,"['python', 'java', 'sql', 'excel']"
+CHEF,6.674715581472196,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,6.517691446938147,"['python', 'excel', 'communication']"
+TEACHER,6.49385334494827,['excel']
+INFORMATION-TECHNOLOGY,6.4626312882340065,['sql']
+DESIGNER,6.4571664656651135,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,6.455122685764087,['sql']
+INFORMATION-TECHNOLOGY,6.454250056060122,"['sql', 'excel']"
+ENGINEERING,6.436310089118635,"['python', 'sql', 'communication', 'leadership', 'mongodb']"
+ARTS,6.369314089116538,['communication']
+TEACHER,6.354525050428481,"['excel', 'communication']"
+ACCOUNTANT,6.226724219807609,"['excel', 'leadership']"
+TEACHER,6.194342991194579,"['excel', 'communication']"
+ARTS,6.191936436909436,"['communication', 'leadership']"
+DESIGNER,6.14677431683379,"['java', 'sql']"
+AVIATION,6.145306804855247,"['java', 'sql', 'aws', 'data analysis']"
+FINANCE,6.121418917140313,"['excel', 'communication', 'leadership']"
+ENGINEERING,6.094104069233964,['machine learning']
+APPAREL,6.071415128889252,"['excel', 'communication', 'leadership']"
+ENGINEERING,6.060354107753574,['excel']
+AVIATION,6.013919784306592,"['excel', 'communication', 'leadership']"
+BANKING,6.0092543863008,"['java', 'sql', 'deep learning', 'excel', 'aws', 'docker', 'kubernetes', 'communication', 'nlp']"
+ACCOUNTANT,5.978696606144332,['excel']
+HEALTHCARE,5.970710883056494,['communication']
+SALES,5.952833703795089,"['excel', 'communication', 'leadership']"
+AGRICULTURE,5.938763491157414,"['excel', 'communication', 'leadership']"
+ARTS,5.926500617862693,['excel']
+TEACHER,5.902036803052274,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,5.89722655361447,"['java', 'sql', 'communication']"
+DESIGNER,5.8675256007337575,"['python', 'java', 'sql', 'leadership']"
+INFORMATION-TECHNOLOGY,5.863581478419292,"['java', 'sql', 'communication', 'data analysis']"
+ENGINEERING,5.831878272149681,['leadership']
+AGRICULTURE,5.830213405123304,"['excel', 'communication', 'leadership']"
+CHEF,5.814710011591174,['communication']
+BANKING,5.797884071615159,"['sql', 'data analysis']"
+AUTOMOBILE,5.788153265952839,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,5.782328244545164,['communication']
+ARTS,5.701783891541469,['leadership']
+DESIGNER,5.696060325982311,"['sql', 'excel', 'data analysis', 'react']"
+ENGINEERING,5.6779369226721625,"['python', 'java', 'excel', 'data analysis']"
+ARTS,5.662733440320825,"['excel', 'communication', 'leadership']"
+TEACHER,5.603418211809089,"['excel', 'communication']"
+HEALTHCARE,5.600664722461915,"['sql', 'tableau', 'excel', 'data analysis']"
+INFORMATION-TECHNOLOGY,5.570474553834525,"['excel', 'data analysis']"
+CONSULTANT,5.546655099332995,"['sql', 'aws', 'communication', 'leadership']"
+CONSTRUCTION,5.544565982208552,"['excel', 'communication']"
+BANKING,5.517544773093873,"['sql', 'excel', 'communication']"
+ENGINEERING,5.493753581040442,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,5.466531793635675,"['java', 'sql', 'excel']"
+ADVOCATE,5.462453538305442,"['python', 'java', 'excel']"
+CONSULTANT,5.461492137337311,"['sql', 'excel']"
+APPAREL,5.410907669320145,"['sql', 'excel', 'data analysis']"
+CHEF,5.364314447486537,['excel']
+AVIATION,5.354491761043861,"['python', 'java', 'sql', 'excel', 'docker', 'communication', 'leadership']"
+TEACHER,5.345360832240507,"['excel', 'communication', 'leadership']"
+BPO,5.341054083899403,"['java', 'sql', 'excel', 'communication', 'leadership']"
+ARTS,5.340716836845899,['data analysis']
+HEALTHCARE,5.335364232577254,"['excel', 'communication', 'leadership']"
+ENGINEERING,5.328847208949781,"['java', 'machine learning', 'tensorflow', 'leadership']"
+HEALTHCARE,5.305634323298033,"['communication', 'leadership']"
+ADVOCATE,5.266307184910498,"['excel', 'communication']"
+ARTS,5.258992429111206,['leadership']
+DIGITAL-MEDIA,5.256966586992184,"['machine learning', 'communication', 'leadership']"
+TEACHER,5.256736934871401,[]
+ARTS,5.236643538116482,"['excel', 'communication']"
+ENGINEERING,5.2241167228538,"['excel', 'communication']"
+TEACHER,5.221172033720072,[]
+DESIGNER,5.211744250498646,['excel']
+DESIGNER,5.204995424480745,"['java', 'sql', 'excel', 'leadership']"
+TEACHER,5.200942926628864,['excel']
+BUSINESS-DEVELOPMENT,5.193351229336118,"['sql', 'excel', 'communication', 'data analysis']"
+FITNESS,5.186838785787469,['communication']
+INFORMATION-TECHNOLOGY,5.181709512189946,['communication']
+PUBLIC-RELATIONS,5.167018768603536,"['excel', 'communication', 'leadership']"
+CONSULTANT,5.157404161985004,"['java', 'sql', 'excel']"
+TEACHER,5.143253955613365,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,5.128896413714279,"['excel', 'communication', 'leadership']"
+HEALTHCARE,5.1226476154617995,"['java', 'sql', 'communication']"
+ENGINEERING,5.111149508364749,"['excel', 'communication', 'leadership']"
+BANKING,5.075259498163452,['leadership']
+ARTS,5.074046489187494,"['excel', 'communication', 'leadership', 'data analysis']"
+CONSTRUCTION,5.036456528013463,"['excel', 'communication']"
+ENGINEERING,5.019327211443563,"['sql', 'excel', 'communication', 'data analysis']"
+INFORMATION-TECHNOLOGY,4.987707854944202,"['excel', 'communication']"
+CONSTRUCTION,4.987032263713794,"['excel', 'communication']"
+CHEF,4.973499221541605,"['excel', 'communication', 'leadership']"
+CONSULTANT,4.958476376615316,"['sql', 'leadership']"
+ENGINEERING,4.94225766969506,"['sql', 'excel']"
+SALES,4.934167894357021,['communication']
+DESIGNER,4.92483614621551,['leadership']
+FITNESS,4.920095109847512,"['excel', 'leadership']"
+HR,4.918466327591437,"['excel', 'communication']"
+ACCOUNTANT,4.8874209683961185,"['sql', 'excel', 'communication']"
+TEACHER,4.883571961967048,[]
+HEALTHCARE,4.8729877623694815,"['communication', 'leadership']"
+CONSULTANT,4.87128189045004,"['sql', 'tableau', 'excel', 'aws']"
+FINANCE,4.866841365944144,"['excel', 'communication', 'leadership']"
+ADVOCATE,4.85938786568444,"['sql', 'communication', 'data analysis']"
+CONSULTANT,4.830615435560858,"['sql', 'machine learning', 'tableau', 'excel']"
+HR,4.825001102997919,"['java', 'sql', 'excel', 'communication']"
+INFORMATION-TECHNOLOGY,4.824407727238287,"['java', 'sql', 'excel']"
+CONSULTANT,4.795988195495433,"['sql', 'excel', 'aws', 'communication']"
+DESIGNER,4.785003932573896,['excel']
+TEACHER,4.780287507523882,['excel']
+ARTS,4.778261442728851,"['communication', 'leadership', 'data analysis']"
+CONSULTANT,4.760294263099124,"['sql', 'excel', 'aws', 'communication']"
+ARTS,4.744263937857146,"['excel', 'communication', 'leadership']"
+ENGINEERING,4.725999320998342,"['excel', 'communication']"
+TEACHER,4.700408995025162,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,4.696657219039345,"['python', 'java', 'data analysis']"
+ADVOCATE,4.693475127674802,"['excel', 'communication']"
+DESIGNER,4.6925021344595566,"['excel', 'communication']"
+CONSULTANT,4.655259154266153,"['java', 'sql', 'excel', 'communication']"
+ADVOCATE,4.647731755423838,"['excel', 'communication', 'leadership']"
+ARTS,4.632168250540322,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,4.622313106040113,"['excel', 'communication', 'leadership']"
+SALES,4.620890288134921,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,4.6129776999541745,['communication']
+TEACHER,4.610566862070967,['communication']
+TEACHER,4.609592270860925,"['excel', 'communication']"
+PUBLIC-RELATIONS,4.607611476524866,"['sql', 'excel', 'communication', 'leadership']"
+ARTS,4.597833158992433,"['leadership', 'data analysis']"
+BANKING,4.579172538334493,"['sql', 'excel']"
+CONSULTANT,4.5762176783204005,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,4.559306038898252,['communication']
+ACCOUNTANT,4.5581146420586665,"['excel', 'communication']"
+APPAREL,4.551258410968091,"['excel', 'communication']"
+HEALTHCARE,4.546983231734421,"['sql', 'communication', 'leadership']"
+APPAREL,4.533098926390901,[]
+BANKING,4.528376214041948,"['sql', 'excel', 'communication', 'leadership']"
+TEACHER,4.518957453840132,"['excel', 'communication', 'leadership']"
+TEACHER,4.493848551249493,['leadership']
+BANKING,4.48732046732514,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,4.484759298721365,"['excel', 'communication', 'leadership']"
+DESIGNER,4.463484171651249,"['excel', 'communication', 'leadership']"
+ADVOCATE,4.4629578541040456,['communication']
+INFORMATION-TECHNOLOGY,4.459297870787199,"['python', 'java', 'sql', 'excel']"
+ACCOUNTANT,4.448218554422157,"['excel', 'leadership']"
+BPO,4.440219842255871,"['java', 'sql', 'excel', 'communication']"
+HEALTHCARE,4.440080135729619,"['excel', 'communication', 'leadership', 'data analysis']"
+APPAREL,4.42437415957284,"['tableau', 'excel', 'communication', 'leadership']"
+ENGINEERING,4.405178406267043,"['sql', 'excel', 'leadership', 'data analysis']"
+BANKING,4.384490566168131,"['sql', 'communication']"
+CONSTRUCTION,4.3611360948979145,"['excel', 'communication', 'leadership']"
+TEACHER,4.354305252986769,"['excel', 'communication']"
+ARTS,4.353597567154906,"['excel', 'communication', 'leadership']"
+ENGINEERING,4.348678321472503,"['excel', 'communication', 'leadership']"
+HR,4.34817404188741,"['java', 'sql', 'excel', 'communication']"
+PUBLIC-RELATIONS,4.347515206782812,"['excel', 'communication', 'react']"
+INFORMATION-TECHNOLOGY,4.342437654918455,"['sql', 'excel', 'communication', 'leadership']"
+ENGINEERING,4.341283287207795,"['excel', 'communication']"
+HEALTHCARE,4.330518476417146,"['excel', 'communication', 'leadership']"
+ARTS,4.330021759265209,"['communication', 'leadership']"
+TEACHER,4.320798681376976,['communication']
+ARTS,4.301509789631665,['excel']
+INFORMATION-TECHNOLOGY,4.29059402949229,"['java', 'sql', 'excel', 'aws', 'communication', 'react', 'node js', 'mongodb']"
+APPAREL,4.281750660560758,['communication']
+CONSTRUCTION,4.2751229515355424,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,4.257689939104008,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,4.2569821710913285,"['excel', 'communication', 'leadership']"
+DESIGNER,4.256811309460674,['aws']
+INFORMATION-TECHNOLOGY,4.253230817137036,"['sql', 'aws', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,4.249985353565617,"['sql', 'excel']"
+TEACHER,4.249840147974279,"['excel', 'communication']"
+BANKING,4.248576425862841,"['sql', 'excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,4.226343363707555,"['communication', 'leadership']"
+TEACHER,4.223582284221552,"['excel', 'communication', 'leadership']"
+TEACHER,4.220303001821931,['communication']
+ENGINEERING,4.218962777780943,['excel']
+DIGITAL-MEDIA,4.2155184584369225,"['sql', 'aws']"
+FITNESS,4.201470149571167,['excel']
+ENGINEERING,4.173448920837204,"['python', 'sql', 'excel', 'communication', 'react']"
+DESIGNER,4.168617237983112,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,4.1449958997401835,"['java', 'sql']"
+AVIATION,4.137797506014153,"['excel', 'communication', 'leadership']"
+HEALTHCARE,4.136937607672613,"['excel', 'communication', 'leadership']"
+HR,4.129503933584877,"['communication', 'leadership']"
+ARTS,4.12571788194705,['excel']
+CONSULTANT,4.102614458356558,"['communication', 'leadership']"
+CONSTRUCTION,4.095821051646761,"['aws', 'communication', 'leadership']"
+ACCOUNTANT,4.082578735015498,['communication']
+CHEF,4.0820100432513176,['communication']
+HR,4.079565637974925,"['excel', 'communication', 'data analysis']"
+INFORMATION-TECHNOLOGY,4.073888006290752,"['sql', 'communication', 'leadership']"
+APPAREL,4.067257533086349,['excel']
+SALES,4.066907240692853,"['sql', 'excel', 'communication']"
+BANKING,4.063031203255115,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,4.061066100657221,"['sql', 'excel', 'communication']"
+TEACHER,4.0546538883760554,"['excel', 'leadership']"
+AGRICULTURE,4.045216671924635,"['communication', 'leadership']"
+FITNESS,4.038076298888855,['communication']
+TEACHER,4.037638419510231,"['excel', 'communication', 'leadership']"
+ARTS,4.0301706221508224,"['excel', 'communication', 'leadership']"
+HEALTHCARE,4.028006283823196,"['sql', 'tableau', 'excel', 'communication', 'data analysis']"
+CONSULTANT,4.018165171072694,"['java', 'sql', 'excel', 'communication', 'leadership']"
+BANKING,4.015263443344671,"['excel', 'communication']"
+AUTOMOBILE,4.012097712108627,"['sql', 'excel', 'leadership']"
+INFORMATION-TECHNOLOGY,4.01152332784147,"['sql', 'communication', 'leadership', 'data analysis']"
+BUSINESS-DEVELOPMENT,3.987636088316309,"['leadership', 'data analysis']"
+BPO,3.9876018450357735,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,3.9858593628203485,"['excel', 'communication']"
+FINANCE,3.983832252695178,"['java', 'excel', 'communication', 'leadership']"
+ENGINEERING,3.9775304840366497,"['python', 'sql', 'communication']"
+AVIATION,3.9493548481688032,[]
+FINANCE,3.938414353651519,"['sql', 'excel', 'data analysis']"
+INFORMATION-TECHNOLOGY,3.936416829641446,"['sql', 'leadership']"
+SALES,3.9295252258357576,"['excel', 'communication', 'leadership']"
+HR,3.924802499832622,"['excel', 'communication', 'leadership', 'data analysis']"
+TEACHER,3.9208203582142693,['communication']
+HEALTHCARE,3.918425311223034,"['excel', 'communication', 'leadership', 'data analysis']"
+ADVOCATE,3.9119612298890454,[]
+ARTS,3.9033399461702167,"['excel', 'communication']"
+AGRICULTURE,3.89678580207099,['excel']
+TEACHER,3.889790775684152,[]
+BANKING,3.88739142599482,"['excel', 'communication']"
+TEACHER,3.8837107500199335,"['excel', 'communication']"
+TEACHER,3.883601607748563,"['excel', 'communication']"
+TEACHER,3.879271706425386,[]
+SALES,3.8789466869369202,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,3.8770947022313944,"['excel', 'communication', 'leadership', 'data analysis']"
+ENGINEERING,3.8550919328067828,"['python', 'excel']"
+BANKING,3.8535642370840257,"['sql', 'communication', 'leadership']"
+AUTOMOBILE,3.8419234480107005,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,3.841567833816088,['excel']
+BANKING,3.8384371807512703,"['sql', 'excel', 'communication']"
+ENGINEERING,3.8319587631521523,"['excel', 'leadership']"
+HR,3.830732217888156,"['excel', 'communication', 'data analysis']"
+INFORMATION-TECHNOLOGY,3.8257905571441944,"['java', 'sql', 'excel', 'communication']"
+ADVOCATE,3.820870428951731,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,3.8167667232341183,"['excel', 'communication', 'leadership']"
+HR,3.815906087882068,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,3.8129102929283025,"['excel', 'communication']"
+TEACHER,3.8107291858069416,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,3.81066761160187,"['excel', 'communication']"
+CONSTRUCTION,3.787766768448163,"['excel', 'communication']"
+FINANCE,3.751719389609852,"['sql', 'excel', 'aws', 'communication', 'leadership']"
+ENGINEERING,3.7377739248361297,"['excel', 'communication', 'leadership']"
+FITNESS,3.7261639477130264,"['excel', 'communication', 'leadership']"
+TEACHER,3.717591325936514,"['communication', 'leadership']"
+TEACHER,3.7170032836666795,"['communication', 'leadership']"
+CONSULTANT,3.7089188760283593,"['excel', 'communication', 'leadership']"
+AVIATION,3.6955543466267224,"['excel', 'communication']"
+AUTOMOBILE,3.690874850303775,"['excel', 'communication']"
+ADVOCATE,3.680858326044307,"['excel', 'communication']"
+DESIGNER,3.6788648045683514,"['excel', 'communication']"
+TEACHER,3.6763286974564044,['communication']
+FITNESS,3.6757606896373853,"['excel', 'communication']"
+HEALTHCARE,3.6738199488842382,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,3.671919922661119,"['python', 'excel']"
+CHEF,3.6639216903363,"['communication', 'leadership', 'data analysis']"
+PUBLIC-RELATIONS,3.6466284337515824,"['communication', 'leadership']"
+SALES,3.6420653062605237,"['excel', 'communication']"
+ACCOUNTANT,3.6382539367011595,['communication']
+FINANCE,3.6378824107486136,"['excel', 'communication', 'leadership', 'data analysis']"
+TEACHER,3.637292743717071,"['excel', 'communication']"
+ENGINEERING,3.6369208616096675,['communication']
+PUBLIC-RELATIONS,3.619045560392129,"['excel', 'communication']"
+ENGINEERING,3.613124422660621,['aws']
+APPAREL,3.6025039414952187,"['excel', 'communication']"
+AVIATION,3.5997841617650197,"['excel', 'communication']"
+APPAREL,3.598080927023291,"['excel', 'communication']"
+PUBLIC-RELATIONS,3.59438631627133,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,3.5890852430843534,"['excel', 'communication']"
+TEACHER,3.5813148301720705,"['communication', 'leadership']"
+CONSTRUCTION,3.5736378663919584,"['excel', 'communication']"
+SALES,3.565677336891511,"['communication', 'leadership']"
+ENGINEERING,3.5620134302423945,"['java', 'sql', 'excel', 'communication', 'leadership']"
+ARTS,3.5583267648202326,"['excel', 'communication', 'leadership']"
+HEALTHCARE,3.547170004883591,"['excel', 'communication', 'leadership']"
+FINANCE,3.539080315427977,"['excel', 'communication']"
+FINANCE,3.539080315427977,"['excel', 'communication']"
+ADVOCATE,3.5384422620718405,"['excel', 'communication', 'leadership']"
+SALES,3.5355830702585718,"['excel', 'communication']"
+ADVOCATE,3.5354324786198528,"['excel', 'communication', 'leadership']"
+CONSULTANT,3.5277523580640646,"['sql', 'communication', 'data analysis']"
+FINANCE,3.524434649904614,"['excel', 'communication', 'data analysis']"
+INFORMATION-TECHNOLOGY,3.523633354230625,"['sql', 'excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,3.5234130901981437,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,3.519220939708355,"['excel', 'communication']"
+SALES,3.517879024415359,"['excel', 'communication']"
+AGRICULTURE,3.515979537502888,"['leadership', 'data analysis']"
+HEALTHCARE,3.505196208307324,['communication']
+ENGINEERING,3.493428755344979,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,3.4850069679526787,"['excel', 'communication']"
+SALES,3.4828268748354554,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,3.47499527926314,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,3.4744619974226176,[]
+CONSTRUCTION,3.471942317172368,"['excel', 'leadership']"
+ENGINEERING,3.470770793352758,['python']
+APPAREL,3.451413924532593,"['excel', 'leadership']"
+BANKING,3.434482540156429,['communication']
+AVIATION,3.432200935902733,"['java', 'excel', 'communication']"
+AGRICULTURE,3.4260049905121055,"['excel', 'leadership']"
+ENGINEERING,3.425639672030935,"['excel', 'communication', 'leadership']"
+FITNESS,3.4133747633576164,"['python', 'sql', 'excel', 'communication']"
+FINANCE,3.406078919423435,['excel']
+TEACHER,3.404164637911246,['excel']
+ENGINEERING,3.4032385925203736,"['java', 'sql', 'excel', 'communication']"
+SALES,3.3911729988093025,"['excel', 'communication', 'leadership']"
+CONSULTANT,3.388094802130244,"['excel', 'communication']"
+BPO,3.383259258325645,['excel']
+AVIATION,3.370750090650101,"['aws', 'communication', 'leadership']"
+TEACHER,3.369200865774561,['excel']
+AVIATION,3.3649206389707835,"['excel', 'communication']"
+SALES,3.3607429912565476,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,3.3596952806893023,['communication']
+ARTS,3.3577847235514775,"['excel', 'communication', 'leadership']"
+TEACHER,3.3554764683577853,['excel']
+CHEF,3.355038622274061,"['excel', 'leadership']"
+HEALTHCARE,3.3545220450138005,"['java', 'sql', 'excel', 'communication']"
+AUTOMOBILE,3.351914870795542,"['sql', 'excel', 'leadership', 'data analysis']"
+TEACHER,3.3409116957886758,"['excel', 'communication', 'leadership']"
+ENGINEERING,3.3397176151422103,['java']
+APPAREL,3.3294211460932623,"['excel', 'communication', 'leadership']"
+SALES,3.326067578530935,['communication']
+TEACHER,3.325625995261762,"['excel', 'communication', 'leadership']"
+FITNESS,3.3240470926065706,['communication']
+ENGINEERING,3.319134883764521,"['excel', 'communication']"
+DESIGNER,3.318825320179925,['aws']
+ADVOCATE,3.3133168932806982,"['excel', 'communication']"
+CONSTRUCTION,3.3093196234983884,"['excel', 'leadership']"
+AUTOMOBILE,3.3084859280420673,"['excel', 'communication']"
+PUBLIC-RELATIONS,3.3011371206948006,"['excel', 'communication', 'leadership']"
+FINANCE,3.294898640031057,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,3.293912034347267,"['excel', 'communication', 'leadership']"
+SALES,3.2923645881995145,"['excel', 'communication']"
+CONSTRUCTION,3.2806038996197384,"['excel', 'communication', 'leadership']"
+CONSULTANT,3.2739666773146054,"['sql', 'leadership']"
+HR,3.267823630077755,"['excel', 'communication', 'leadership']"
+ARTS,3.2677655246879462,"['excel', 'communication']"
+ARTS,3.260227173727987,"['excel', 'leadership']"
+CONSTRUCTION,3.2561872275735495,[]
+CONSULTANT,3.252083287764053,"['sql', 'communication', 'leadership']"
+ACCOUNTANT,3.251487227143257,[]
+ACCOUNTANT,3.249799427566838,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,3.2387186363360723,"['communication', 'leadership']"
+ADVOCATE,3.2342048562351025,['communication']
+HR,3.2333277345349507,"['excel', 'communication']"
+ADVOCATE,3.2321893120294884,['excel']
+TEACHER,3.2310256769501695,['communication']
+HR,3.2307184028851625,"['excel', 'communication', 'leadership']"
+AGRICULTURE,3.2298210280459405,['excel']
+FITNESS,3.2279346778174034,['communication']
+CHEF,3.218236441525991,"['excel', 'communication']"
+ADVOCATE,3.214491733692907,"['java', 'sql', 'excel', 'aws', 'communication', 'react']"
+DESIGNER,3.2006439020868047,[]
+SALES,3.1985820696399485,['communication']
+HR,3.1946202356047984,"['excel', 'communication', 'leadership']"
+AVIATION,3.188736188980798,['communication']
+BANKING,3.1808102763812047,"['python', 'java', 'excel', 'leadership', 'data analysis']"
+FITNESS,3.1742102282165634,"['excel', 'leadership']"
+CONSTRUCTION,3.1740344550245143,"['excel', 'communication', 'leadership', 'react']"
+TEACHER,3.171190394165964,"['excel', 'communication', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,3.160109489479855,"['sql', 'excel', 'communication']"
+BANKING,3.1517482592087247,"['communication', 'leadership']"
+DIGITAL-MEDIA,3.148569322364869,"['excel', 'leadership', 'data analysis']"
+BANKING,3.148020111957638,['excel']
+CONSULTANT,3.145979326684805,"['excel', 'communication']"
+HR,3.1449205135953444,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,3.144566591489331,['sql']
+AVIATION,3.1432258942061115,"['communication', 'leadership']"
+AGRICULTURE,3.1418300938578407,['excel']
+ADVOCATE,3.1397837143198712,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,3.129071878226796,"['excel', 'communication', 'leadership']"
+ENGINEERING,3.1277636634499104,"['python', 'java', 'excel', 'aws', 'leadership']"
+APPAREL,3.127378452870132,['communication']
+AVIATION,3.120422668179578,"['excel', 'communication']"
+TEACHER,3.114712225769478,['excel']
+BANKING,3.1133555632403507,"['excel', 'communication', 'leadership']"
+APPAREL,3.110168568235807,"['excel', 'communication']"
+ACCOUNTANT,3.1041915288388457,"['excel', 'leadership']"
+CHEF,3.1035630197995236,"['excel', 'communication']"
+HR,3.097271443774466,"['excel', 'communication', 'leadership']"
+ADVOCATE,3.0972123331614942,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,3.095161426783114,"['excel', 'communication']"
+PUBLIC-RELATIONS,3.0945741655615335,"['excel', 'communication', 'leadership']"
+FITNESS,3.0935948846211994,"['excel', 'communication']"
+HR,3.0893235327201167,['excel']
+HR,3.0865452646478952,"['excel', 'communication', 'leadership']"
+CONSULTANT,3.0855609316504395,"['excel', 'communication']"
+FITNESS,3.0844858724720607,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,3.082747879045927,"['excel', 'communication']"
+HEALTHCARE,3.0734934350373257,"['excel', 'communication']"
+PUBLIC-RELATIONS,3.0727310612121013,"['excel', 'communication', 'leadership']"
+CONSULTANT,3.0725845203422333,"['sql', 'excel', 'communication']"
+CONSULTANT,3.0722829959632754,"['java', 'sql', 'excel', 'leadership']"
+CONSTRUCTION,3.067392600160214,['communication']
+CONSULTANT,3.0648430481254296,"['java', 'sql', 'excel', 'communication', 'leadership']"
+HR,3.0647805983813883,['excel']
+DIGITAL-MEDIA,3.0640384254062725,[]
+AVIATION,3.0628262099867607,"['communication', 'leadership']"
+FINANCE,3.0613104824546955,"['excel', 'communication']"
+ADVOCATE,3.0531194321386383,"['excel', 'communication']"
+HR,3.050722442132265,['excel']
+ENGINEERING,3.0496480815565197,"['excel', 'leadership']"
+CONSULTANT,3.042939565512993,"['python', 'java', 'sql', 'communication', 'leadership']"
+DIGITAL-MEDIA,3.041482842915343,"['sql', 'excel', 'communication', 'leadership']"
+APPAREL,3.036757203846548,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,3.035967195449762,['excel']
+PUBLIC-RELATIONS,3.03538743903405,"['communication', 'leadership']"
+TEACHER,3.0347630275710005,['communication']
+ENGINEERING,3.033803115078937,['machine learning']
+DESIGNER,3.0273862139348022,"['sql', 'data analysis']"
+FITNESS,3.022250458129334,"['excel', 'leadership']"
+HR,3.0068095972127855,"['leadership', 'data analysis']"
+AVIATION,3.0066153160562137,['excel']
+AGRICULTURE,3.0060611504507504,"['excel', 'communication']"
+ADVOCATE,3.005423175811424,"['communication', 'leadership']"
+HEALTHCARE,3.002668035879199,"['excel', 'communication']"
+HEALTHCARE,2.996580804970911,['excel']
+INFORMATION-TECHNOLOGY,2.9964645593248913,"['sql', 'communication', 'data analysis']"
+BPO,2.9948034584595473,"['sql', 'excel', 'leadership']"
+TEACHER,2.9869432923567403,"['excel', 'data analysis']"
+FITNESS,2.9862467057619786,"['excel', 'communication']"
+HEALTHCARE,2.980445675509016,"['communication', 'leadership', 'data analysis']"
+HR,2.9769020950768397,"['communication', 'leadership']"
+TEACHER,2.9712560184929235,"['excel', 'communication']"
+ADVOCATE,2.9687953513033984,"['excel', 'communication']"
+ACCOUNTANT,2.9678589201642995,"['excel', 'communication', 'leadership']"
+HR,2.9665715565385753,"['excel', 'communication', 'leadership']"
+SALES,2.9626455945506724,"['excel', 'communication']"
+FINANCE,2.953331341990869,"['excel', 'communication']"
+CONSULTANT,2.9505697277153,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.9462272150645585,"['sql', 'excel', 'communication']"
+FINANCE,2.946096103628159,"['sql', 'excel']"
+SALES,2.9459676710724954,"['excel', 'communication']"
+ADVOCATE,2.9435266336191397,"['excel', 'communication']"
+DESIGNER,2.9429098202135857,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.9409023082701427,"['excel', 'communication']"
+ENGINEERING,2.9400701482796565,"['java', 'sql', 'excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.938569083648455,"['sql', 'excel', 'communication', 'leadership']"
+ENGINEERING,2.929693883680842,"['excel', 'communication', 'leadership']"
+BPO,2.924401076292866,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,2.9217668565322477,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.921278427652463,"['communication', 'leadership']"
+ENGINEERING,2.911241315589571,"['python', 'sql', 'machine learning', 'tensorflow', 'leadership']"
+ADVOCATE,2.898562496602277,['excel']
+FINANCE,2.8894785662300957,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.8891220493652363,"['sql', 'excel']"
+CONSULTANT,2.883685406727005,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.8821538764418673,"['sql', 'excel', 'communication', 'leadership', 'data analysis', 'react']"
+BANKING,2.876968788717063,['communication']
+TEACHER,2.873052005546256,[]
+HEALTHCARE,2.8690039500518663,['communication']
+CONSULTANT,2.867386949196484,"['python', 'sql', 'excel']"
+BPO,2.8672820166830575,"['excel', 'communication', 'leadership']"
+SALES,2.8633831640490897,['excel']
+DIGITAL-MEDIA,2.8628054407548684,"['java', 'sql', 'excel', 'communication']"
+ADVOCATE,2.862461440664479,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.8619796803918724,"['excel', 'communication', 'leadership']"
+SALES,2.8604997673791677,"['excel', 'communication', 'leadership']"
+ARTS,2.8578967055028266,"['excel', 'communication']"
+CONSULTANT,2.8541019962973593,"['sql', 'excel', 'communication', 'data analysis']"
+CONSTRUCTION,2.8524976187335476,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.852447714483739,['react']
+BANKING,2.848314398792588,['communication']
+ARTS,2.843730668593953,"['excel', 'communication']"
+TEACHER,2.843403190781655,[]
+PUBLIC-RELATIONS,2.8328080137212774,['communication']
+PUBLIC-RELATIONS,2.829243412801204,"['communication', 'leadership', 'data analysis']"
+HR,2.8253264624104175,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.8160802561088105,"['communication', 'leadership']"
+ENGINEERING,2.813188751496348,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,2.8084175687796558,"['excel', 'leadership']"
+CONSULTANT,2.804175218246761,"['sql', 'excel', 'communication']"
+APPAREL,2.7983546919818707,"['excel', 'communication', 'leadership']"
+ARTS,2.791702949518827,['communication']
+PUBLIC-RELATIONS,2.7855454250191545,"['excel', 'communication']"
+ACCOUNTANT,2.7842276670920802,"['excel', 'communication']"
+FITNESS,2.779632563865558,"['excel', 'data analysis']"
+INFORMATION-TECHNOLOGY,2.777763084194989,"['communication', 'leadership']"
+TEACHER,2.7755313465639024,['communication']
+CHEF,2.77175448453283,['excel']
+TEACHER,2.77055168456837,"['excel', 'communication', 'leadership']"
+FITNESS,2.768387961328166,"['excel', 'communication', 'leadership']"
+FINANCE,2.7680803247873054,"['excel', 'communication']"
+FITNESS,2.7645641992100565,"['communication', 'leadership']"
+FINANCE,2.7622974048772555,"['communication', 'leadership']"
+ENGINEERING,2.756981620499096,['communication']
+CONSULTANT,2.7555332638812957,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,2.7532738068268494,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.7531046933907017,"['java', 'sql', 'communication']"
+BANKING,2.7502582308626393,"['excel', 'communication', 'leadership', 'data analysis']"
+PUBLIC-RELATIONS,2.747480100872817,"['machine learning', 'excel', 'communication']"
+TEACHER,2.745226460547499,"['excel', 'communication', 'leadership']"
+HR,2.7418564465042627,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.732005057130086,"['sql', 'communication', 'leadership']"
+ACCOUNTANT,2.7298899450207683,"['excel', 'communication', 'leadership']"
+TEACHER,2.726156504178267,"['excel', 'communication']"
+ACCOUNTANT,2.719897492352738,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.7156532887411005,['communication']
+ARTS,2.7084279078098477,"['java', 'excel']"
+APPAREL,2.7061705204897195,['excel']
+DIGITAL-MEDIA,2.703472012145386,"['excel', 'communication']"
+BANKING,2.7027787569951514,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.6985814434736612,['communication']
+CONSTRUCTION,2.694616046145037,"['excel', 'communication']"
+HEALTHCARE,2.6932406177288004,['excel']
+PUBLIC-RELATIONS,2.693062405593756,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.6921644526313226,"['excel', 'aws', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.6901055346332887,"['excel', 'communication', 'leadership']"
+FINANCE,2.6832973236719826,"['sql', 'excel', 'communication', 'data analysis', 'react']"
+ACCOUNTANT,2.6825313908930353,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.6820224579420215,"['excel', 'leadership', 'data analysis']"
+HR,2.6798951033363503,"['communication', 'leadership']"
+ACCOUNTANT,2.6786692451294227,"['excel', 'leadership']"
+SALES,2.677815647619609,['excel']
+CONSTRUCTION,2.673632263397521,"['sql', 'excel', 'communication', 'leadership']"
+ADVOCATE,2.6709678294539945,"['excel', 'communication']"
+DIGITAL-MEDIA,2.666800103154589,"['excel', 'communication']"
+APPAREL,2.665856765382186,['leadership']
+HEALTHCARE,2.652535349343449,"['java', 'communication']"
+CONSTRUCTION,2.652260435165681,['leadership']
+INFORMATION-TECHNOLOGY,2.6490488140049173,"['excel', 'communication', 'data analysis']"
+CONSULTANT,2.6489247659330557,"['sql', 'leadership']"
+DIGITAL-MEDIA,2.6474329889967607,"['excel', 'communication']"
+AVIATION,2.6452164812874184,"['python', 'excel']"
+ADVOCATE,2.644552997770871,['excel']
+AVIATION,2.6388964362148646,"['communication', 'leadership', 'react']"
+AVIATION,2.6362663628664262,"['excel', 'communication']"
+ENGINEERING,2.6289549606451224,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.6264707281601227,['communication']
+FITNESS,2.624002342032173,"['excel', 'communication']"
+TEACHER,2.6196544684380156,"['communication', 'leadership']"
+ARTS,2.6147550317502257,"['excel', 'communication', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,2.6127887014957407,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.6125307253649086,"['excel', 'communication', 'leadership']"
+SALES,2.608136334674935,"['excel', 'communication', 'leadership']"
+BANKING,2.6061297130601004,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,2.6060889746529425,"['sql', 'excel', 'aws', 'communication', 'leadership']"
+ENGINEERING,2.606030089034839,"['communication', 'leadership']"
+CONSTRUCTION,2.603752542035708,['excel']
+ACCOUNTANT,2.603031382432551,"['excel', 'communication']"
+TEACHER,2.601446392782271,['leadership']
+PUBLIC-RELATIONS,2.6012747449705724,[]
+SALES,2.5995493255357287,[]
+ARTS,2.5984773354068227,['aws']
+SALES,2.5968136756488227,"['excel', 'communication', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,2.5935471714419025,"['sql', 'excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.5914975535231486,"['sql', 'excel']"
+ENGINEERING,2.5905340876711356,['excel']
+TEACHER,2.582171665111389,"['excel', 'communication']"
+DESIGNER,2.578079254092987,['excel']
+BUSINESS-DEVELOPMENT,2.5774783430631802,"['excel', 'leadership']"
+BANKING,2.5730869677853305,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.568051599321155,"['excel', 'communication', 'leadership']"
+SALES,2.561290465947783,['communication']
+TEACHER,2.5588586873448693,"['excel', 'communication', 'leadership']"
+CONSULTANT,2.558774023009225,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,2.558125701152467,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.557323629649029,"['excel', 'communication']"
+CONSULTANT,2.5567897439428515,['excel']
+FITNESS,2.5554543126199385,"['excel', 'communication', 'leadership']"
+AVIATION,2.5542363207999395,['data analysis']
+DESIGNER,2.554212191545203,"['excel', 'communication']"
+AVIATION,2.5494976609462503,"['communication', 'leadership']"
+FINANCE,2.5492762644224025,"['excel', 'aws', 'communication']"
+FITNESS,2.548022689023671,"['excel', 'leadership']"
+AVIATION,2.5471641047661895,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.5431508928423425,"['java', 'sql', 'excel']"
+ADVOCATE,2.538832923355133,"['excel', 'communication']"
+DESIGNER,2.536761666413923,['leadership']
+BANKING,2.5364908308060556,"['sql', 'excel']"
+CONSULTANT,2.535221262353315,"['sql', 'excel', 'communication', 'data analysis']"
+INFORMATION-TECHNOLOGY,2.533939180905498,"['sql', 'excel', 'communication', 'data analysis']"
+CHEF,2.5333713884801545,[]
+APPAREL,2.5284046437425878,"['excel', 'leadership']"
+ACCOUNTANT,2.5276755995154794,"['excel', 'communication']"
+BANKING,2.521681520100156,"['java', 'sql', 'excel']"
+ARTS,2.5167949118118855,['excel']
+SALES,2.508798371097481,"['excel', 'leadership']"
+CONSULTANT,2.5080306705074857,"['excel', 'communication', 'data analysis']"
+DESIGNER,2.5068673962278667,"['sql', 'excel', 'communication', 'leadership']"
+SALES,2.5059666124245186,"['excel', 'communication', 'leadership']"
+AGRICULTURE,2.5039691608914225,['sql']
+BUSINESS-DEVELOPMENT,2.5022755585155743,"['excel', 'communication', 'leadership', 'data analysis']"
+FITNESS,2.497910615871681,"['excel', 'leadership']"
+SALES,2.4978352190850424,"['excel', 'communication', 'leadership']"
+AVIATION,2.497501145047779,"['excel', 'communication', 'leadership']"
+HR,2.4948548832858135,"['excel', 'aws', 'communication']"
+HEALTHCARE,2.493025988440752,"['excel', 'leadership']"
+DIGITAL-MEDIA,2.4907130271493148,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.490253717959566,"['excel', 'communication']"
+SALES,2.4897172509148096,"['excel', 'communication']"
+FINANCE,2.486623066941313,"['excel', 'communication']"
+AUTOMOBILE,2.4793364303354757,"['java', 'sql', 'excel', 'communication', 'data analysis']"
+ENGINEERING,2.477847133063127,"['excel', 'communication']"
+HEALTHCARE,2.476941815984247,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.4743247840949327,"['excel', 'communication', 'leadership']"
+CONSULTANT,2.4729045446982925,['excel']
+CONSTRUCTION,2.471509510869586,"['excel', 'aws']"
+INFORMATION-TECHNOLOGY,2.470266773098505,"['sql', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.4702596424333856,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.464766736786661,['excel']
+ENGINEERING,2.463905043026313,"['communication', 'leadership']"
+ENGINEERING,2.4634770485079995,['communication']
+FINANCE,2.462275434930219,"['sql', 'excel']"
+FITNESS,2.4597851070830234,['leadership']
+INFORMATION-TECHNOLOGY,2.4589586544482964,"['communication', 'leadership']"
+BANKING,2.4564562094843385,['excel']
+INFORMATION-TECHNOLOGY,2.455232932724237,"['sql', 'excel', 'communication']"
+HR,2.4540908054572257,"['excel', 'communication', 'leadership']"
+HR,2.4513787858489575,"['excel', 'communication', 'leadership']"
+SALES,2.451283442769296,"['excel', 'communication']"
+DIGITAL-MEDIA,2.451084537629096,"['excel', 'communication', 'leadership']"
+CONSULTANT,2.448537392909381,"['excel', 'communication']"
+FITNESS,2.447858093226492,"['excel', 'communication']"
+AVIATION,2.4469486418380693,['excel']
+FITNESS,2.445217553631354,"['excel', 'communication', 'leadership']"
+HR,2.4432708202722537,"['excel', 'communication']"
+ACCOUNTANT,2.4427477156115347,"['excel', 'communication']"
+DIGITAL-MEDIA,2.4409605566986134,"['excel', 'communication']"
+HEALTHCARE,2.440914973605446,"['excel', 'communication']"
+CHEF,2.4382857209183584,['excel']
+CONSULTANT,2.436300674828793,['leadership']
+ARTS,2.4344917001941977,"['excel', 'communication']"
+ADVOCATE,2.4328247496628053,"['excel', 'communication']"
+CONSULTANT,2.4312191102516363,"['excel', 'communication', 'leadership']"
+APPAREL,2.430483342019888,"['excel', 'communication']"
+HEALTHCARE,2.425052711719842,"['excel', 'communication', 'leadership']"
+AVIATION,2.4246674194233897,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.4234123875594586,"['excel', 'communication', 'leadership']"
+HR,2.422108302572467,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,2.421449117907689,"['excel', 'communication', 'leadership']"
+ARTS,2.4153533617168166,"['excel', 'communication']"
+ARTS,2.4113757268609333,"['excel', 'communication', 'leadership']"
+FINANCE,2.4086902849220575,"['excel', 'communication']"
+TEACHER,2.407246139138466,"['excel', 'communication', 'leadership']"
+BANKING,2.4019595723506533,"['sql', 'excel']"
+ARTS,2.4011861626064492,"['excel', 'communication', 'leadership']"
+DESIGNER,2.39852259916317,"['java', 'sql']"
+FINANCE,2.396831370627551,"['excel', 'leadership']"
+PUBLIC-RELATIONS,2.39666538982815,['communication']
+TEACHER,2.395914029895143,['excel']
+ADVOCATE,2.39502598670015,['communication']
+AVIATION,2.3938854204436986,"['excel', 'communication']"
+ADVOCATE,2.391701219193966,"['excel', 'communication']"
+FINANCE,2.3903011409534307,['leadership']
+HR,2.388483536256066,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.388409908843494,"['excel', 'communication', 'leadership']"
+AGRICULTURE,2.3881101579225557,['communication']
+DIGITAL-MEDIA,2.3824140901048874,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.381690976014051,"['excel', 'communication', 'leadership']"
+ARTS,2.38091226782063,"['excel', 'communication']"
+DESIGNER,2.3805624610749754,"['python', 'excel', 'communication', 'leadership', 'data analysis']"
+ENGINEERING,2.3797479722856227,[]
+CONSULTANT,2.371857795559176,"['excel', 'leadership', 'data analysis']"
+AVIATION,2.370525610192068,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.366751653390982,"['excel', 'communication']"
+FINANCE,2.3659613606441283,['excel']
+HR,2.365660844579808,"['leadership', 'data analysis']"
+SALES,2.364804232573452,['communication']
+FITNESS,2.3645280739675467,['excel']
+BANKING,2.361903964038372,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,2.361721402437812,"['excel', 'communication']"
+ADVOCATE,2.360097360391948,"['excel', 'communication', 'leadership']"
+ENGINEERING,2.3599264464532292,"['java', 'excel', 'data analysis']"
+FINANCE,2.3579600636797196,"['excel', 'leadership']"
+DIGITAL-MEDIA,2.355972270757711,"['java', 'sql', 'tableau', 'excel', 'leadership']"
+AVIATION,2.355433057428936,[]
+CONSTRUCTION,2.352748221256786,"['excel', 'communication']"
+ARTS,2.3525908963887434,"['excel', 'communication', 'leadership']"
+APPAREL,2.351546557147578,"['excel', 'communication']"
+FINANCE,2.3508311861125475,"['excel', 'communication', 'leadership']"
+APPAREL,2.3481823752648454,"['excel', 'communication', 'leadership']"
+FINANCE,2.343580436776905,"['excel', 'leadership']"
+ARTS,2.3417301472832586,[]
+PUBLIC-RELATIONS,2.339778374346868,"['communication', 'leadership']"
+ENGINEERING,2.3370897744791037,"['communication', 'leadership']"
+HEALTHCARE,2.331302238272933,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.329840436642121,['leadership']
+DESIGNER,2.329830995653683,['excel']
+PUBLIC-RELATIONS,2.329452185359934,['excel']
+CHEF,2.3293751678615915,"['excel', 'communication', 'react']"
+PUBLIC-RELATIONS,2.3285783856628757,['communication']
+ADVOCATE,2.3255413881451137,['excel']
+FINANCE,2.321327949235605,['excel']
+BANKING,2.320400508034781,"['excel', 'leadership']"
+CONSTRUCTION,2.3199859792264825,['communication']
+ADVOCATE,2.3175639810772686,"['excel', 'communication']"
+SALES,2.3164405751539543,"['excel', 'communication']"
+SALES,2.316168149349141,"['excel', 'communication']"
+ACCOUNTANT,2.3054854295444467,"['sql', 'excel', 'communication', 'data analysis']"
+APPAREL,2.302549349702083,"['excel', 'communication']"
+HR,2.3022277619136706,"['excel', 'communication']"
+DIGITAL-MEDIA,2.2992531636559352,"['excel', 'communication', 'leadership']"
+AVIATION,2.2957346375334895,"['excel', 'communication']"
+ARTS,2.2951532260459873,"['excel', 'communication', 'leadership']"
+FINANCE,2.294788214906789,['excel']
+CONSULTANT,2.2943165047877194,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,2.290883510192114,['communication']
+HEALTHCARE,2.287406585329826,"['excel', 'communication', 'leadership']"
+TEACHER,2.2869335069053025,['excel']
+AVIATION,2.286274355030664,['excel']
+ADVOCATE,2.2818966952218656,[]
+FINANCE,2.2818809647197,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.281566901407589,['communication']
+AGRICULTURE,2.2784053008842986,"['excel', 'leadership']"
+PUBLIC-RELATIONS,2.277852779359688,"['communication', 'leadership']"
+CONSULTANT,2.275062357018911,"['excel', 'communication', 'leadership', 'react']"
+AVIATION,2.2738416752334136,"['excel', 'communication', 'leadership']"
+AVIATION,2.2701704719787537,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,2.2665610006676133,['communication']
+BANKING,2.2653182363982856,"['excel', 'communication']"
+FITNESS,2.2644784067305563,['communication']
+ACCOUNTANT,2.2643194831001168,"['excel', 'communication', 'leadership']"
+FINANCE,2.2617973616561287,"['excel', 'leadership']"
+ACCOUNTANT,2.261600324333909,"['excel', 'communication']"
+ARTS,2.2609810862781083,['leadership']
+PUBLIC-RELATIONS,2.2597307422066475,"['excel', 'communication']"
+FINANCE,2.258852726017758,['excel']
+FINANCE,2.258006091170082,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,2.25697022602353,"['excel', 'communication']"
+HEALTHCARE,2.251541810236848,"['excel', 'communication', 'leadership', 'data analysis']"
+CONSTRUCTION,2.2504867308355396,"['excel', 'communication', 'leadership', 'react']"
+BANKING,2.250461866745789,"['excel', 'communication', 'leadership']"
+SALES,2.2470887956953325,"['excel', 'communication']"
+SALES,2.2448262365814142,['leadership']
+TEACHER,2.2425798522812275,['communication']
+AVIATION,2.2407392895458753,['leadership']
+FITNESS,2.2383066203423154,['communication']
+TEACHER,2.2368263596491373,[]
+AUTOMOBILE,2.236207823510608,"['excel', 'communication']"
+AVIATION,2.235963806258572,[]
+ENGINEERING,2.2341244303325336,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.233037091284623,['excel']
+BUSINESS-DEVELOPMENT,2.230835628893704,"['excel', 'communication']"
+ARTS,2.2300811258401434,"['excel', 'communication']"
+HR,2.2293871545577284,"['excel', 'communication']"
+APPAREL,2.227149192196849,"['excel', 'communication', 'leadership']"
+HR,2.219921874774582,['communication']
+TEACHER,2.2193597280397723,['excel']
+ACCOUNTANT,2.218782595453798,['excel']
+FINANCE,2.217186114839172,"['excel', 'communication', 'leadership']"
+APPAREL,2.215798920856132,"['excel', 'communication']"
+APPAREL,2.213747230292146,['leadership']
+ADVOCATE,2.2134146116744855,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.2108404242373805,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.209415661450068,"['sql', 'excel', 'communication', 'leadership', 'data analysis']"
+BANKING,2.2065493147034876,"['excel', 'communication']"
+FINANCE,2.1987919882339866,['excel']
+ENGINEERING,2.1972401089006706,[]
+ADVOCATE,2.1913449819338933,['excel']
+CHEF,2.188173970622478,"['excel', 'communication', 'leadership', 'data analysis']"
+HR,2.18737777045525,['communication']
+CONSTRUCTION,2.1852671269054,[]
+ARTS,2.183329948517615,['communication']
+ACCOUNTANT,2.1831826383097312,['communication']
+DIGITAL-MEDIA,2.1830061150173217,"['excel', 'communication', 'leadership']"
+ENGINEERING,2.180742582835747,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.1801492143302323,"['excel', 'communication']"
+ARTS,2.1799032207645457,"['communication', 'leadership']"
+TEACHER,2.178064276490831,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.177533261139968,"['sql', 'tableau', 'communication', 'leadership']"
+CONSTRUCTION,2.1775146004608907,"['excel', 'communication']"
+HEALTHCARE,2.1738641646027146,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,2.1734559746787294,['excel']
+ACCOUNTANT,2.16995426924997,"['excel', 'communication', 'leadership']"
+HEALTHCARE,2.169188787119331,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,2.1670751889248794,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,2.16639536408729,"['excel', 'communication', 'data analysis']"
+PUBLIC-RELATIONS,2.166045139618277,['python']
+ARTS,2.1634913033426573,"['excel', 'communication']"
+CHEF,2.162693562888712,[]
+BUSINESS-DEVELOPMENT,2.1580518868474043,"['communication', 'leadership']"
+ADVOCATE,2.1572712034212715,['excel']
+TEACHER,2.1568699278133616,['communication']
+INFORMATION-TECHNOLOGY,2.1503277270093695,"['excel', 'communication']"
+ARTS,2.149078161837041,['excel']
+FITNESS,2.1472147076523473,"['excel', 'communication']"
+HEALTHCARE,2.1465447885495834,"['communication', 'leadership']"
+HR,2.1454228334375416,"['communication', 'leadership']"
+ENGINEERING,2.1442019589506964,"['excel', 'communication']"
+AVIATION,2.143921289179,['excel']
+SALES,2.143738694654219,"['sql', 'communication', 'leadership']"
+FITNESS,2.141875671495875,"['excel', 'aws', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.140530117473466,"['excel', 'communication']"
+HEALTHCARE,2.1404049535367653,"['excel', 'leadership']"
+ACCOUNTANT,2.139340128482607,"['excel', 'communication', 'leadership']"
+AVIATION,2.1378974208254893,"['communication', 'leadership']"
+SALES,2.137791191397959,['excel']
+ARTS,2.1373766939343617,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,2.137084740310717,['communication']
+HEALTHCARE,2.1349747234759984,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.125300197986842,"['communication', 'leadership']"
+BANKING,2.1161943312389293,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.1154059664390124,"['sql', 'excel', 'communication']"
+ADVOCATE,2.115390123920636,"['excel', 'leadership']"
+PUBLIC-RELATIONS,2.113363399686816,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.113353401624536,"['sql', 'excel', 'communication', 'leadership']"
+HR,2.1102456785364496,"['excel', 'communication', 'leadership']"
+ENGINEERING,2.1076479605438907,"['excel', 'communication', 'data analysis']"
+AGRICULTURE,2.1064443633224896,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,2.105894613995913,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,2.1041542333468657,['data analysis']
+FINANCE,2.1040907555176833,"['excel', 'communication']"
+ADVOCATE,2.103257799127129,"['communication', 'leadership']"
+CONSTRUCTION,2.102906157637621,"['excel', 'leadership']"
+HR,2.102597648972574,"['tableau', 'excel', 'communication', 'leadership']"
+DESIGNER,2.101584050679562,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,2.0974510935116593,['excel']
+INFORMATION-TECHNOLOGY,2.0967493507307466,"['sql', 'excel', 'communication', 'leadership']"
+SALES,2.0958338082038006,"['excel', 'communication', 'leadership']"
+AGRICULTURE,2.0956253713778232,"['excel', 'communication', 'leadership']"
+ARTS,2.092116277218214,"['excel', 'leadership']"
+TEACHER,2.0918783653774278,[]
+FITNESS,2.0889346378267883,"['excel', 'communication', 'leadership']"
+ARTS,2.088405681972631,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.088112838806138,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,2.087008109101644,"['excel', 'communication', 'leadership']"
+ADVOCATE,2.076100647695372,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,2.0727236954997066,"['excel', 'communication']"
+CONSTRUCTION,2.0654597445568856,"['excel', 'communication', 'leadership']"
+ARTS,2.064621317821183,"['excel', 'communication', 'leadership']"
+SALES,2.062531053988119,"['excel', 'communication']"
+AVIATION,2.0621577765139265,['excel']
+FITNESS,2.061596003411151,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,2.059874917268352,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.059150114502675,"['excel', 'communication']"
+TEACHER,2.057711600323557,[]
+BANKING,2.056080334373777,"['excel', 'leadership']"
+CONSULTANT,2.0549827000192025,['communication']
+CHEF,2.0521564362489815,"['excel', 'communication', 'leadership']"
+AGRICULTURE,2.0518280336494024,"['excel', 'communication']"
+CONSULTANT,2.05100532232048,"['excel', 'communication']"
+ARTS,2.050630763806683,['communication']
+FITNESS,2.0472748566213648,"['communication', 'leadership']"
+ADVOCATE,2.0470747369725766,['leadership']
+ENGINEERING,2.0452628983365075,"['sql', 'excel', 'communication', 'leadership']"
+FINANCE,2.0412033985045226,"['tableau', 'excel']"
+FINANCE,2.0397234760039544,"['excel', 'communication']"
+DESIGNER,2.039200501933116,['excel']
+AVIATION,2.034360908185776,[]
+HR,2.0325282104082083,"['excel', 'communication']"
+FITNESS,2.03150533939714,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,2.030915173038132,"['excel', 'communication']"
+AVIATION,2.029511144933804,[]
+BANKING,2.026094730146497,"['communication', 'leadership']"
+AGRICULTURE,2.0244819896306008,"['excel', 'communication']"
+AVIATION,2.0241237350538346,"['communication', 'leadership']"
+FITNESS,2.0180792533793035,"['excel', 'communication']"
+HEALTHCARE,2.0178000853973455,[]
+INFORMATION-TECHNOLOGY,2.0167850294083283,"['communication', 'leadership']"
+AUTOMOBILE,2.0164948119035486,"['excel', 'communication', 'leadership']"
+FINANCE,2.0158263955371303,"['excel', 'communication']"
+PUBLIC-RELATIONS,2.011902896718233,['communication']
+DIGITAL-MEDIA,2.011556681639828,[]
+FITNESS,2.0090786866896018,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,2.0069679051939198,"['excel', 'aws', 'communication', 'leadership']"
+HR,2.0050573110667074,"['excel', 'communication']"
+ACCOUNTANT,2.003536571398389,"['sql', 'excel']"
+FITNESS,2.002483366591865,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,1.99775666768484,"['excel', 'communication']"
+ADVOCATE,1.99752586584083,"['excel', 'communication', 'leadership']"
+APPAREL,1.9968751749483933,"['communication', 'leadership']"
+CHEF,1.9959063492263573,['excel']
+ARTS,1.995026518955255,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,1.9914978921883888,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.991283397250449,"['excel', 'communication', 'leadership']"
+BANKING,1.9907318268514689,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.9892672310618857,['excel']
+AVIATION,1.9886397549360553,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.9868861282964576,"['excel', 'communication', 'leadership', 'data analysis']"
+AVIATION,1.9844297538489244,"['excel', 'communication']"
+APPAREL,1.9836156987097568,"['excel', 'communication']"
+AVIATION,1.9833323785380323,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.981768501795568,"['excel', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,1.9814970548781865,"['leadership', 'data analysis']"
+APPAREL,1.9807959503437393,['excel']
+AVIATION,1.9803155559773893,['react']
+TEACHER,1.9794127864240716,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.9789605556986993,"['excel', 'communication']"
+DIGITAL-MEDIA,1.9777110990972064,"['excel', 'communication']"
+FITNESS,1.975529532209673,['excel']
+CONSTRUCTION,1.9731348261234083,['leadership']
+PUBLIC-RELATIONS,1.9726146061605374,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.9717465291826914,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.9714426933559566,"['excel', 'communication']"
+SALES,1.970324406557612,"['excel', 'communication']"
+HR,1.9700249728715307,"['excel', 'communication', 'leadership']"
+SALES,1.9688906091793987,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.968362737295742,['leadership']
+PUBLIC-RELATIONS,1.966944054133828,['communication']
+SALES,1.9661900245812214,[]
+SALES,1.9651879692314775,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.9635846764348284,"['sql', 'communication', 'leadership']"
+HR,1.9592920742779427,"['excel', 'communication', 'leadership']"
+SALES,1.9576973712953736,['communication']
+INFORMATION-TECHNOLOGY,1.9560075490276374,"['sql', 'communication', 'leadership']"
+AUTOMOBILE,1.9552702532356216,"['excel', 'communication', 'leadership', 'data analysis']"
+SALES,1.9547787501401366,"['excel', 'communication', 'leadership']"
+AVIATION,1.9542408910053928,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.9503371912277925,"['excel', 'communication']"
+CONSULTANT,1.9482618861438434,"['java', 'sql', 'excel', 'communication']"
+ARTS,1.9454747109441795,['communication']
+ACCOUNTANT,1.9444731811245664,"['excel', 'aws', 'communication', 'leadership', 'data analysis']"
+BANKING,1.9418911305039508,"['excel', 'communication']"
+SALES,1.9387548330488447,"['excel', 'leadership']"
+FINANCE,1.9375055893785347,"['excel', 'communication']"
+ACCOUNTANT,1.9359722842696416,"['sql', 'excel', 'aws']"
+BANKING,1.9316128967910253,"['excel', 'communication']"
+HR,1.9302033053663892,"['excel', 'communication', 'data analysis']"
+AGRICULTURE,1.926723225385335,"['excel', 'communication']"
+CHEF,1.923359700921916,"['excel', 'communication']"
+HR,1.9229155736194679,"['java', 'sql', 'communication']"
+SALES,1.921919310181866,"['excel', 'communication']"
+CHEF,1.9208396732128201,"['communication', 'leadership']"
+ENGINEERING,1.916737308849464,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.9154299662169354,"['communication', 'leadership']"
+CONSULTANT,1.9112812787032516,"['java', 'excel', 'communication', 'leadership']"
+BANKING,1.9083411493401197,['excel']
+ACCOUNTANT,1.9076837218515021,"['communication', 'leadership']"
+PUBLIC-RELATIONS,1.9059417595691013,"['excel', 'communication']"
+CHEF,1.9057111997468825,"['excel', 'leadership']"
+DESIGNER,1.9037481184097453,['excel']
+DESIGNER,1.903051688999771,[]
+HR,1.9027748595770315,"['excel', 'communication']"
+CONSTRUCTION,1.9012589883301383,"['excel', 'leadership']"
+CONSTRUCTION,1.9011929813397548,"['java', 'sql', 'excel']"
+ARTS,1.8981588376884022,['excel']
+ARTS,1.8975240752749312,"['excel', 'leadership']"
+CONSTRUCTION,1.895887475378498,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.8958787413004676,"['excel', 'communication']"
+HR,1.8938928067380785,"['excel', 'communication', 'leadership']"
+SALES,1.8921787859862722,"['excel', 'communication']"
+ENGINEERING,1.889984444710353,"['excel', 'communication']"
+BANKING,1.888826688780999,"['excel', 'communication']"
+HEALTHCARE,1.8884330575902712,"['excel', 'communication']"
+BANKING,1.8878654868661922,"['excel', 'communication']"
+HR,1.87969029214501,['excel']
+CONSTRUCTION,1.876260917161646,"['excel', 'communication']"
+APPAREL,1.8745438970596577,"['excel', 'communication']"
+SALES,1.8738285268341366,['communication']
+FINANCE,1.8735702211137617,[]
+INFORMATION-TECHNOLOGY,1.8735204215904244,"['java', 'sql']"
+FINANCE,1.8733691645774004,"['excel', 'data analysis']"
+AUTOMOBILE,1.8692274652019842,['communication']
+CONSULTANT,1.8683995846007657,"['excel', 'communication']"
+CONSULTANT,1.866825127882428,"['communication', 'leadership']"
+DIGITAL-MEDIA,1.866643329218209,"['aws', 'communication']"
+BUSINESS-DEVELOPMENT,1.8661010903393365,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,1.8653966091739433,"['excel', 'communication']"
+BANKING,1.8639871021579935,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.8630710136006663,"['sql', 'excel', 'communication', 'leadership']"
+TEACHER,1.8626531465521228,"['excel', 'leadership']"
+TEACHER,1.860260582320743,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.8598663933423114,"['excel', 'communication', 'leadership']"
+BANKING,1.857294190950624,['leadership']
+CHEF,1.8567742546354047,"['excel', 'react']"
+ACCOUNTANT,1.8546523757552498,"['excel', 'communication']"
+HEALTHCARE,1.854552593729377,"['communication', 'leadership']"
+ENGINEERING,1.8490289784089287,"['sql', 'excel']"
+AGRICULTURE,1.8462167541931072,['excel']
+SALES,1.8456471386271711,"['excel', 'communication']"
+FITNESS,1.8448077587272447,"['excel', 'communication', 'leadership']"
+HR,1.8439008321995527,"['communication', 'leadership']"
+ACCOUNTANT,1.8431131465298198,"['excel', 'communication']"
+ADVOCATE,1.8419938663081659,"['excel', 'communication']"
+HR,1.8407801980203906,"['excel', 'communication']"
+AGRICULTURE,1.8378113964760683,"['excel', 'communication']"
+ACCOUNTANT,1.8370856349138092,['communication']
+INFORMATION-TECHNOLOGY,1.8370632946448011,"['sql', 'excel', 'communication', 'leadership']"
+AVIATION,1.8367483405897955,"['excel', 'communication']"
+CONSULTANT,1.8356417045893205,['excel']
+CHEF,1.832719732187106,"['communication', 'leadership']"
+SALES,1.8301654145628128,['leadership']
+CONSULTANT,1.8273395727855442,['sql']
+AVIATION,1.8265679931094112,[]
+SALES,1.8240668993229296,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.823931312643644,"['excel', 'communication']"
+ACCOUNTANT,1.8231098362110139,"['excel', 'communication', 'leadership']"
+BPO,1.8182220937846327,"['excel', 'communication', 'leadership']"
+AVIATION,1.8172414999911894,['data analysis']
+FITNESS,1.8161442207000593,['excel']
+DIGITAL-MEDIA,1.8151171952961453,['communication']
+BPO,1.8120199374798216,"['communication', 'leadership']"
+HR,1.8100748627304781,"['excel', 'leadership']"
+CHEF,1.80726297856,"['excel', 'leadership']"
+BANKING,1.805790275977387,"['excel', 'communication']"
+AUTOMOBILE,1.802300709503098,"['excel', 'communication', 'leadership']"
+AGRICULTURE,1.8007657968422983,"['excel', 'communication', 'leadership']"
+BPO,1.7980927874037191,"['excel', 'communication', 'data analysis']"
+FINANCE,1.7979552385027031,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.7940177375072999,"['tableau', 'communication']"
+ADVOCATE,1.7921050662869171,"['excel', 'communication']"
+HR,1.7898708356496122,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.7879901189252076,"['excel', 'leadership']"
+DIGITAL-MEDIA,1.7827139128475329,"['excel', 'communication']"
+DESIGNER,1.7821458083584718,"['sql', 'excel', 'data analysis']"
+PUBLIC-RELATIONS,1.78167557594685,['communication']
+HR,1.7814406640920315,['aws']
+INFORMATION-TECHNOLOGY,1.7788749825627201,"['communication', 'leadership', 'data analysis']"
+INFORMATION-TECHNOLOGY,1.7777278879419112,"['excel', 'communication']"
+HEALTHCARE,1.7776518250281297,"['excel', 'communication']"
+ARTS,1.7772833545147142,['excel']
+DIGITAL-MEDIA,1.77551630057994,['excel']
+HEALTHCARE,1.7752447626050307,"['excel', 'communication', 'leadership']"
+ARTS,1.7727363039586415,"['excel', 'communication']"
+HEALTHCARE,1.77193319401791,"['excel', 'aws', 'communication', 'leadership', 'data analysis']"
+FINANCE,1.7717103044266653,"['sql', 'excel', 'communication']"
+ADVOCATE,1.77140387558969,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,1.7679416725479509,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.7671280728845848,"['communication', 'leadership']"
+ACCOUNTANT,1.7591115003085314,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,1.7590685026694035,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.746452923713644,['excel']
+SALES,1.7454614216999718,"['excel', 'leadership']"
+CONSULTANT,1.7449382818571735,"['communication', 'leadership']"
+SALES,1.7443408605006205,['communication']
+SALES,1.7443235577206326,"['excel', 'communication']"
+ARTS,1.7425807263897335,"['excel', 'communication']"
+CHEF,1.7425112197715766,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.7364699196279316,"['excel', 'aws', 'communication']"
+BANKING,1.7363444241225312,['excel']
+ADVOCATE,1.7345356411026074,"['excel', 'communication']"
+HEALTHCARE,1.7344158381942734,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.733466426190175,"['excel', 'leadership']"
+FINANCE,1.7272123676286537,"['excel', 'leadership']"
+ACCOUNTANT,1.7269771416623998,['excel']
+PUBLIC-RELATIONS,1.7266385804611917,['communication']
+ARTS,1.7239219694009342,"['excel', 'leadership']"
+ADVOCATE,1.7229219985477602,['excel']
+AGRICULTURE,1.7188569515783667,"['excel', 'leadership']"
+FINANCE,1.7174484194394097,"['excel', 'communication']"
+ACCOUNTANT,1.7171692930601852,[]
+ADVOCATE,1.7117336833734484,"['excel', 'aws', 'communication']"
+CONSTRUCTION,1.7114486445977997,"['excel', 'communication', 'leadership']"
+AGRICULTURE,1.710801381825048,"['excel', 'communication']"
+AVIATION,1.6992250788846734,['leadership']
+CHEF,1.6957439966541694,"['excel', 'leadership']"
+AVIATION,1.6885700030692383,"['communication', 'leadership']"
+CONSTRUCTION,1.686323173308237,"['excel', 'communication']"
+CONSULTANT,1.6839212393073117,"['communication', 'leadership']"
+CONSULTANT,1.6823627927194482,['communication']
+DESIGNER,1.680340235679336,"['excel', 'communication', 'leadership']"
+SALES,1.6760021375701353,"['excel', 'communication']"
+FITNESS,1.6741617787760725,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.673775558171205,[]
+BANKING,1.6736732329299637,"['excel', 'communication']"
+AUTOMOBILE,1.6735224695307847,['communication']
+HEALTHCARE,1.6694896329856914,"['communication', 'data analysis']"
+PUBLIC-RELATIONS,1.6677615288099357,"['excel', 'communication']"
+DESIGNER,1.6675619344263446,"['excel', 'communication', 'leadership']"
+APPAREL,1.666748091056993,"['excel', 'communication', 'leadership']"
+CHEF,1.665004904217781,"['communication', 'leadership']"
+DIGITAL-MEDIA,1.664667306647205,['communication']
+FITNESS,1.663077416551336,['leadership']
+HR,1.6612075556771497,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.6608440573555279,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.6604574554700566,"['excel', 'communication', 'leadership']"
+HR,1.6597433799437802,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.6573397425505638,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.6554063594678277,[]
+BANKING,1.652316370240653,"['excel', 'communication']"
+ENGINEERING,1.6515076688985264,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.651428266059984,['communication']
+HEALTHCARE,1.6458556151510588,"['excel', 'data analysis']"
+AUTOMOBILE,1.6419462663934257,"['communication', 'leadership']"
+AVIATION,1.6419165570626226,"['excel', 'communication']"
+AVIATION,1.6419165570626226,"['excel', 'communication']"
+HR,1.6411648532435323,['communication']
+HEALTHCARE,1.640218859334901,"['excel', 'communication', 'leadership']"
+AVIATION,1.6390720716855791,"['excel', 'leadership']"
+DIGITAL-MEDIA,1.638873999583958,"['tableau', 'excel', 'communication', 'leadership', 'data analysis']"
+ADVOCATE,1.638845154132506,['leadership']
+FINANCE,1.6386923824927588,['excel']
+AVIATION,1.636278551461692,"['excel', 'communication']"
+ACCOUNTANT,1.632424809155816,['excel']
+ADVOCATE,1.6316803184230406,"['excel', 'communication']"
+SALES,1.6303590206603429,"['excel', 'communication', 'leadership']"
+ENGINEERING,1.6297434647259568,['excel']
+HEALTHCARE,1.6294297043020496,"['excel', 'communication']"
+APPAREL,1.6278411183859187,"['excel', 'communication']"
+ACCOUNTANT,1.6277614978145858,['excel']
+HR,1.6274590685277202,['communication']
+AGRICULTURE,1.6242082894833956,"['excel', 'communication']"
+ENGINEERING,1.6239489917083898,"['communication', 'leadership']"
+DIGITAL-MEDIA,1.6217253516371544,"['java', 'sql', 'excel']"
+DESIGNER,1.620106294320725,"['communication', 'leadership']"
+FITNESS,1.6189627264665662,"['communication', 'leadership']"
+HEALTHCARE,1.617347348058889,"['excel', 'communication']"
+AVIATION,1.6167283174369593,"['excel', 'communication', 'leadership']"
+FINANCE,1.6161642876232964,"['excel', 'communication']"
+DESIGNER,1.6160617796453738,"['excel', 'communication']"
+FINANCE,1.6142288062407042,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.6137841336369134,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.6125159111899978,['excel']
+BUSINESS-DEVELOPMENT,1.6121269107190312,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.6110860036089667,"['sql', 'excel', 'communication', 'data analysis']"
+ACCOUNTANT,1.6108091939577376,"['sql', 'excel']"
+CONSULTANT,1.609739348854471,"['excel', 'communication']"
+CONSTRUCTION,1.6081677622396502,"['excel', 'communication', 'leadership']"
+APPAREL,1.6065086046170303,['communication']
+DESIGNER,1.6064066769339789,[]
+ACCOUNTANT,1.6056257430441905,['communication']
+FINANCE,1.6052179328347176,['excel']
+BUSINESS-DEVELOPMENT,1.6045700280879218,"['excel', 'aws', 'communication', 'leadership']"
+PUBLIC-RELATIONS,1.6040711153015537,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.6038990446053991,"['excel', 'leadership']"
+HEALTHCARE,1.6014366257444586,"['excel', 'communication', 'leadership']"
+APPAREL,1.6002948971839392,['excel']
+BUSINESS-DEVELOPMENT,1.5970054644207827,[]
+FITNESS,1.5967809365521441,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.591504795863075,['excel']
+ARTS,1.5914458007726104,[]
+INFORMATION-TECHNOLOGY,1.590826449380953,"['excel', 'communication', 'leadership']"
+TEACHER,1.5898849679965374,"['excel', 'communication', 'leadership']"
+FINANCE,1.5897785784669833,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.589639835797297,"['sql', 'excel', 'communication', 'leadership']"
+FINANCE,1.588799822857949,['excel']
+HR,1.586461103890682,"['excel', 'communication']"
+CONSTRUCTION,1.586232448166492,"['excel', 'communication']"
+FINANCE,1.5840988200943569,"['sql', 'excel', 'leadership']"
+ADVOCATE,1.5830354718924466,"['excel', 'communication']"
+APPAREL,1.5809825137554363,"['excel', 'communication']"
+DIGITAL-MEDIA,1.5802459085886633,"['excel', 'communication']"
+CONSULTANT,1.5798899452287227,"['excel', 'communication']"
+FINANCE,1.5789143478925294,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.5726040322384474,"['excel', 'communication']"
+ARTS,1.5724932034145076,[]
+BANKING,1.5689135003662993,"['excel', 'communication', 'leadership']"
+FINANCE,1.5686744774023627,"['excel', 'leadership']"
+FITNESS,1.5663870539383409,"['communication', 'leadership', 'data analysis']"
+AVIATION,1.5656927678691486,['communication']
+ARTS,1.5649383909381789,['communication']
+INFORMATION-TECHNOLOGY,1.5631180875093253,"['excel', 'communication', 'leadership']"
+AVIATION,1.5629226290336282,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.5619617694403773,['communication']
+ACCOUNTANT,1.5608784805373126,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.5592556413552556,[]
+ENGINEERING,1.5589890927788406,['data analysis']
+INFORMATION-TECHNOLOGY,1.5587975434869579,"['communication', 'leadership']"
+PUBLIC-RELATIONS,1.558541861108775,"['excel', 'communication']"
+HR,1.5533921994740922,['excel']
+CONSULTANT,1.5528072545258131,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.5524680727771614,"['communication', 'leadership']"
+ENGINEERING,1.5498831721616537,"['excel', 'communication']"
+ENGINEERING,1.548175976062668,"['excel', 'communication', 'data analysis']"
+ARTS,1.5473993682339025,['communication']
+ACCOUNTANT,1.5471995043500495,"['excel', 'communication']"
+ENGINEERING,1.5461706310508054,"['java', 'sql', 'excel', 'communication', 'leadership', 'react']"
+BANKING,1.544952583705275,['excel']
+AVIATION,1.543408446881304,"['excel', 'data analysis', 'react']"
+DIGITAL-MEDIA,1.5433115781046116,['excel']
+INFORMATION-TECHNOLOGY,1.5428852611746702,['sql']
+AVIATION,1.5364291416162075,"['excel', 'leadership']"
+AGRICULTURE,1.5349068887619814,"['excel', 'communication']"
+AVIATION,1.533988607437927,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,1.533345074292668,['communication']
+SALES,1.5324407510976208,"['excel', 'communication']"
+DESIGNER,1.531912508140575,['communication']
+ACCOUNTANT,1.5292684635549785,['excel']
+BANKING,1.525952625027671,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.5232348257160504,[]
+PUBLIC-RELATIONS,1.5231987134563727,"['excel', 'communication', 'leadership']"
+CHEF,1.521436306476461,['excel']
+FINANCE,1.5202585057397442,['excel']
+INFORMATION-TECHNOLOGY,1.5190513510272179,['leadership']
+FITNESS,1.5182739238915308,['excel']
+FITNESS,1.5178473349025239,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,1.5173741118873085,[]
+BANKING,1.515165097579307,"['excel', 'leadership']"
+AVIATION,1.5149496824102917,"['excel', 'communication', 'leadership']"
+FINANCE,1.5142362264690001,['excel']
+BANKING,1.5141236584797773,['communication']
+DIGITAL-MEDIA,1.5140008421985887,"['java', 'sql']"
+ADVOCATE,1.5132629618261593,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.5119370571991992,"['excel', 'communication']"
+SALES,1.509720696122038,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,1.5070233461827516,"['excel', 'communication', 'leadership']"
+FINANCE,1.506917418009911,"['excel', 'leadership']"
+BANKING,1.5044844541348756,['communication']
+HEALTHCARE,1.5043636919765033,"['excel', 'communication']"
+AVIATION,1.5034574724740064,"['excel', 'leadership']"
+APPAREL,1.5026506116511156,['leadership']
+APPAREL,1.5019179872490958,['excel']
+DIGITAL-MEDIA,1.5017915053158895,"['excel', 'communication', 'leadership']"
+BANKING,1.501786335390067,"['sql', 'leadership']"
+AGRICULTURE,1.5011558539800751,"['excel', 'communication', 'leadership', 'data analysis']"
+PUBLIC-RELATIONS,1.5002579309787485,"['communication', 'leadership']"
+ARTS,1.4995579694404206,"['communication', 'leadership']"
+PUBLIC-RELATIONS,1.4987089121110198,"['excel', 'communication', 'leadership']"
+AGRICULTURE,1.4967029630446989,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.4964229677786636,"['excel', 'aws', 'leadership', 'react']"
+HEALTHCARE,1.4959403421397184,"['excel', 'communication']"
+CONSULTANT,1.4955878979470043,['leadership']
+ADVOCATE,1.4943896210307162,[]
+ACCOUNTANT,1.4935864893411348,['communication']
+CONSTRUCTION,1.4933812923385343,"['excel', 'communication', 'leadership']"
+TEACHER,1.492140513188579,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,1.4915744212886983,"['excel', 'communication', 'leadership']"
+FINANCE,1.490930963515052,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.4903032607690148,"['excel', 'communication']"
+CONSULTANT,1.4901164924153463,"['excel', 'communication', 'leadership']"
+FINANCE,1.4878935494128915,['excel']
+DIGITAL-MEDIA,1.4875882205170534,"['excel', 'communication']"
+CONSTRUCTION,1.4867920345628378,['excel']
+CONSTRUCTION,1.4861963923849546,"['excel', 'communication', 'leadership']"
+FITNESS,1.4836927773788133,['excel']
+ADVOCATE,1.4832373248515587,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.4831211290422461,"['excel', 'leadership']"
+PUBLIC-RELATIONS,1.4799934735336056,"['excel', 'communication', 'leadership']"
+FITNESS,1.4795572844328069,"['excel', 'communication']"
+HEALTHCARE,1.476926416894559,['communication']
+CONSTRUCTION,1.4764174455852583,[]
+ARTS,1.4761034725167868,"['communication', 'leadership']"
+CONSTRUCTION,1.4746825285166272,['leadership']
+AGRICULTURE,1.4739121833704203,['excel']
+DESIGNER,1.4737502183664402,"['excel', 'communication']"
+ADVOCATE,1.4711443651486387,[]
+ENGINEERING,1.4669564899115195,"['excel', 'communication']"
+AGRICULTURE,1.4660427682592707,"['excel', 'communication', 'leadership', 'data analysis']"
+TEACHER,1.463842073097808,[]
+CONSTRUCTION,1.4632252302273159,"['excel', 'communication']"
+FINANCE,1.4620619374844817,"['excel', 'leadership']"
+APPAREL,1.4615913827002198,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.4583950125337417,"['excel', 'communication', 'leadership']"
+AVIATION,1.4574876562122885,"['excel', 'communication']"
+CHEF,1.4525948851493928,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.4510171357557895,"['excel', 'data analysis']"
+CHEF,1.4492555077176843,[]
+ACCOUNTANT,1.4446592344808025,"['aws', 'communication']"
+ENGINEERING,1.4439483222547802,"['communication', 'leadership']"
+ACCOUNTANT,1.4435818564655016,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.4417429818935834,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.4413252015148306,['excel']
+DIGITAL-MEDIA,1.4373700799570457,['java']
+AGRICULTURE,1.4357084729127847,"['excel', 'communication']"
+AUTOMOBILE,1.434552253758115,[]
+ACCOUNTANT,1.432645696514931,['excel']
+INFORMATION-TECHNOLOGY,1.4319145113775449,"['communication', 'react']"
+HEALTHCARE,1.4288976108949065,[]
+ADVOCATE,1.4271441898970763,['excel']
+DIGITAL-MEDIA,1.4265858464166576,[]
+FINANCE,1.425854272113507,['communication']
+ENGINEERING,1.4253561412160836,"['communication', 'leadership']"
+BANKING,1.424774362035736,"['excel', 'communication', 'leadership']"
+ENGINEERING,1.4244866987636127,[]
+ADVOCATE,1.4216354033716385,"['communication', 'leadership', 'react']"
+HEALTHCARE,1.4195012695128797,"['excel', 'communication']"
+HR,1.4174908079518649,['communication']
+CHEF,1.4165238557102902,"['excel', 'leadership']"
+SALES,1.416426283838372,[]
+HEALTHCARE,1.4159012563483417,"['excel', 'communication']"
+AGRICULTURE,1.4155905600925125,"['excel', 'communication']"
+DIGITAL-MEDIA,1.4143106987767653,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.41400822744118,"['excel', 'communication']"
+HEALTHCARE,1.4135141211799904,['communication']
+CONSTRUCTION,1.4133781751945482,"['excel', 'communication', 'leadership']"
+AGRICULTURE,1.4131275882740626,"['excel', 'communication', 'data analysis']"
+AVIATION,1.4130679772574368,"['excel', 'communication']"
+CONSULTANT,1.411932611297095,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.4112124792455822,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,1.4100283255386563,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.4089051318693597,[]
+AVIATION,1.4087296506530216,"['excel', 'leadership']"
+SALES,1.406844765262175,"['sql', 'excel', 'communication', 'leadership']"
+ADVOCATE,1.4057047902615867,"['excel', 'communication']"
+CHEF,1.4055519079214116,['excel']
+AGRICULTURE,1.4050849092083846,"['excel', 'leadership']"
+APPAREL,1.4038349600251527,"['excel', 'communication']"
+AVIATION,1.4002264184862918,['leadership']
+CONSTRUCTION,1.3985926739387602,"['communication', 'leadership']"
+APPAREL,1.3985398799718411,"['excel', 'communication']"
+BANKING,1.3981193911483039,"['excel', 'communication']"
+CONSTRUCTION,1.3969764418152146,"['excel', 'communication']"
+TEACHER,1.396476394437941,"['excel', 'communication']"
+ARTS,1.3962888165260237,"['java', 'sql', 'excel']"
+AGRICULTURE,1.3959133425620875,"['communication', 'leadership']"
+SALES,1.3958246656517066,"['excel', 'communication', 'leadership']"
+SALES,1.3936714780080417,[]
+ACCOUNTANT,1.3928969166404626,['excel']
+BUSINESS-DEVELOPMENT,1.3885733740781914,"['communication', 'leadership']"
+FITNESS,1.387847485691807,[]
+AGRICULTURE,1.3876863729865745,"['communication', 'leadership']"
+HR,1.3869327918691392,['excel']
+CHEF,1.3854925381612297,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,1.3819038671681103,['communication']
+ARTS,1.3817655329942053,['communication']
+DIGITAL-MEDIA,1.3796714498736813,"['communication', 'data analysis']"
+BANKING,1.3794854869149595,"['excel', 'communication']"
+CONSTRUCTION,1.3773942639795675,[]
+AVIATION,1.3770862983057217,"['excel', 'leadership']"
+AVIATION,1.3749380342481712,['leadership']
+DESIGNER,1.3743083121118922,[]
+ACCOUNTANT,1.3739893008499933,['excel']
+ADVOCATE,1.3739271027784166,"['excel', 'communication']"
+APPAREL,1.3733010962780652,"['excel', 'communication']"
+DESIGNER,1.3691950233815755,"['excel', 'communication']"
+ADVOCATE,1.3671932273157341,"['excel', 'aws', 'leadership']"
+FITNESS,1.3647375649734708,['excel']
+DESIGNER,1.3646258185854283,['communication']
+BUSINESS-DEVELOPMENT,1.363053547611866,"['excel', 'communication', 'leadership']"
+HR,1.3625366825076444,"['excel', 'communication', 'leadership']"
+ADVOCATE,1.3624808032385323,"['excel', 'communication']"
+ACCOUNTANT,1.3600916274610455,"['excel', 'communication', 'leadership']"
+TEACHER,1.3584364889075555,[]
+AGRICULTURE,1.3571570585825476,"['java', 'data analysis']"
+BUSINESS-DEVELOPMENT,1.3567312649824952,"['excel', 'communication', 'leadership', 'data analysis']"
+ENGINEERING,1.356205917031929,"['excel', 'communication', 'leadership']"
+AVIATION,1.3551570677773834,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.3540353092358945,"['excel', 'leadership']"
+DIGITAL-MEDIA,1.3535701024343472,['communication']
+ADVOCATE,1.352496638839097,"['excel', 'communication', 'leadership']"
+FITNESS,1.3521748133976517,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,1.3508067352349467,"['excel', 'communication']"
+FINANCE,1.3504490636936837,[]
+CHEF,1.350202936655258,['excel']
+ACCOUNTANT,1.3470085678416561,[]
+ENGINEERING,1.3458747786500642,['communication']
+AVIATION,1.3458459487167054,['excel']
+CONSTRUCTION,1.3447660138142432,"['communication', 'leadership']"
+ACCOUNTANT,1.3431253921627255,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.3430313433830128,"['excel', 'communication', 'leadership', 'data analysis']"
+FINANCE,1.342715431552033,[]
+HEALTHCARE,1.341664935350132,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.341228724865857,"['excel', 'communication', 'leadership']"
+FINANCE,1.3392867492657112,"['communication', 'leadership']"
+CHEF,1.3381038704942698,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.3378797438287449,"['excel', 'communication', 'leadership']"
+APPAREL,1.3373764478839159,[]
+FINANCE,1.335267749493231,"['excel', 'communication', 'leadership']"
+DESIGNER,1.3331168427783153,"['excel', 'communication', 'leadership']"
+BANKING,1.3326730129927662,"['excel', 'communication']"
+CONSTRUCTION,1.330698213974947,"['excel', 'leadership']"
+APPAREL,1.3297108711530496,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.329652512459323,[]
+DIGITAL-MEDIA,1.3255314959273246,"['excel', 'communication']"
+APPAREL,1.3233384565933681,"['communication', 'leadership']"
+HR,1.3225808317488086,"['excel', 'communication']"
+CHEF,1.32164344044407,['communication']
+FINANCE,1.3205139240546213,['excel']
+CHEF,1.320116361932545,"['excel', 'communication']"
+ADVOCATE,1.3185250957346233,"['communication', 'leadership']"
+FITNESS,1.3175474949545976,"['excel', 'communication']"
+AGRICULTURE,1.3165248887702639,"['excel', 'communication']"
+DIGITAL-MEDIA,1.3163591498681089,"['communication', 'leadership']"
+HEALTHCARE,1.3153827145264736,"['excel', 'communication', 'leadership']"
+FINANCE,1.3136151532879035,['excel']
+AVIATION,1.3125597052927762,[]
+ARTS,1.3120098712334316,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.309851629493128,['excel']
+ACCOUNTANT,1.3051015145225195,['excel']
+PUBLIC-RELATIONS,1.303599668662853,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.3002884620199031,[]
+APPAREL,1.2989276355483574,"['communication', 'leadership']"
+BANKING,1.2976690683774221,['leadership']
+AVIATION,1.2976179769187524,"['excel', 'communication']"
+TEACHER,1.2969763465633795,['excel']
+FITNESS,1.294088100200309,"['excel', 'leadership']"
+ADVOCATE,1.293919564039298,"['excel', 'communication']"
+FITNESS,1.2937053153085656,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.2931602267035351,"['excel', 'leadership']"
+FITNESS,1.2912906851680377,"['communication', 'leadership']"
+SALES,1.2910630476187315,"['excel', 'communication', 'leadership']"
+HR,1.2901928576270907,"['excel', 'communication', 'leadership']"
+SALES,1.2894089385155096,"['excel', 'communication']"
+AGRICULTURE,1.2878276173839434,['excel']
+ACCOUNTANT,1.2871224663675318,['excel']
+APPAREL,1.2850643684367569,"['excel', 'communication']"
+ADVOCATE,1.2838355265395582,['excel']
+PUBLIC-RELATIONS,1.2785132767867713,"['excel', 'communication']"
+BANKING,1.2770188663482387,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,1.2757112654642762,"['excel', 'communication', 'react']"
+FITNESS,1.2731791140313273,[]
+CHEF,1.2729698806701735,"['excel', 'leadership']"
+AVIATION,1.2726591906356246,"['excel', 'leadership']"
+CONSTRUCTION,1.271624842934652,['excel']
+APPAREL,1.2711558411442827,['communication']
+CONSTRUCTION,1.2711048315417546,"['excel', 'communication', 'leadership']"
+AVIATION,1.2708696462163702,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.2695263607911864,"['excel', 'communication', 'leadership']"
+CHEF,1.2694988548425106,"['communication', 'leadership']"
+CHEF,1.2690966222063071,[]
+HEALTHCARE,1.2683803158137728,"['excel', 'communication', 'leadership']"
+CHEF,1.268078261284317,['excel']
+APPAREL,1.2645858355866002,[]
+CONSULTANT,1.264269845019349,[]
+FITNESS,1.2620920261583364,"['excel', 'communication']"
+ADVOCATE,1.261344346069943,"['excel', 'leadership']"
+SALES,1.2594221175935492,[]
+ACCOUNTANT,1.2591548068436613,['communication']
+HEALTHCARE,1.2565251624689977,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,1.2556156431084458,[]
+DESIGNER,1.2541476874493305,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,1.254071838642218,['communication']
+ENGINEERING,1.2515561881413582,"['leadership', 'data analysis']"
+DESIGNER,1.2502751555327671,['communication']
+HEALTHCARE,1.2483286339976276,"['excel', 'aws']"
+HEALTHCARE,1.2464873953670632,"['excel', 'communication', 'data analysis']"
+PUBLIC-RELATIONS,1.2443981119935936,"['excel', 'communication']"
+APPAREL,1.2438848604376285,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.243050802639182,"['communication', 'leadership']"
+HR,1.2417499155582679,"['excel', 'communication']"
+CONSULTANT,1.2417007859895566,['aws']
+FINANCE,1.2412888330374396,['leadership']
+PUBLIC-RELATIONS,1.2404577633631886,['communication']
+FITNESS,1.2393358703379667,['communication']
+DESIGNER,1.2392305576300808,['excel']
+TEACHER,1.2381706530504193,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.237739084111654,['communication']
+AUTOMOBILE,1.2370733388678687,['excel']
+ENGINEERING,1.234411200979558,['excel']
+CHEF,1.2331478715136104,['communication']
+INFORMATION-TECHNOLOGY,1.2317819429933141,"['communication', 'leadership']"
+HEALTHCARE,1.2306010119661546,['communication']
+DIGITAL-MEDIA,1.2303998936708713,['leadership']
+CONSTRUCTION,1.2294821939734542,"['excel', 'communication']"
+DESIGNER,1.2283346790806484,"['excel', 'communication', 'react']"
+BANKING,1.2281456967389395,"['excel', 'leadership']"
+DESIGNER,1.2279969573334026,['excel']
+BANKING,1.227638885412864,"['excel', 'leadership']"
+AVIATION,1.2211700633378855,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,1.2207944389030283,['excel']
+HR,1.219192263680163,['excel']
+FITNESS,1.2177436479332189,[]
+CONSULTANT,1.2166113675831995,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,1.2155191337405962,['excel']
+DIGITAL-MEDIA,1.2128526479934367,['communication']
+CONSTRUCTION,1.2126004116434626,"['communication', 'leadership']"
+DIGITAL-MEDIA,1.2115144885727274,"['excel', 'communication']"
+ADVOCATE,1.2109870067643345,[]
+BANKING,1.2103858831931231,"['excel', 'leadership']"
+ENGINEERING,1.2099868531209472,"['excel', 'communication']"
+ARTS,1.2056946980712686,[]
+INFORMATION-TECHNOLOGY,1.2051591681492824,[]
+ACCOUNTANT,1.2029523468909615,['excel']
+BPO,1.2008196972100298,['excel']
+FITNESS,1.1994486048875954,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.1978238060584205,['excel']
+FITNESS,1.1942134130901152,['communication']
+BUSINESS-DEVELOPMENT,1.1939716792647825,"['communication', 'leadership']"
+ADVOCATE,1.193352994093216,"['aws', 'communication', 'leadership']"
+ARTS,1.19182912151974,"['excel', 'communication']"
+FINANCE,1.1876350816568106,"['excel', 'communication', 'leadership', 'data analysis']"
+CHEF,1.1867633856884021,"['communication', 'leadership']"
+AGRICULTURE,1.1856622330462203,['leadership']
+SALES,1.1852448074640838,"['excel', 'communication']"
+CONSTRUCTION,1.1845889438762567,"['excel', 'communication']"
+FITNESS,1.1832228317150877,['excel']
+BUSINESS-DEVELOPMENT,1.1812820596245948,"['excel', 'communication', 'leadership']"
+FITNESS,1.1811308172159285,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.1810753683516861,['communication']
+BANKING,1.1801630698660164,"['excel', 'communication', 'leadership']"
+ENGINEERING,1.1792927608382866,"['excel', 'communication']"
+ACCOUNTANT,1.1786542584281765,[]
+CONSTRUCTION,1.1773587301709565,"['sql', 'excel', 'communication']"
+HEALTHCARE,1.177313365611468,"['excel', 'communication']"
+HEALTHCARE,1.1772089965601287,['communication']
+ADVOCATE,1.1741390799092901,['excel']
+CHEF,1.1735077073514664,"['excel', 'communication']"
+CHEF,1.1733174238573092,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.1729788154849337,[]
+BANKING,1.171998841342265,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.1695326689367425,"['communication', 'leadership', 'data analysis']"
+ARTS,1.1686162336318404,"['excel', 'communication']"
+HR,1.1679540723033355,"['excel', 'communication']"
+ARTS,1.1676519748766168,"['excel', 'communication']"
+CHEF,1.1661323142053523,['excel']
+ADVOCATE,1.161126539555954,"['excel', 'aws', 'communication']"
+PUBLIC-RELATIONS,1.1593641115360698,"['communication', 'leadership']"
+ADVOCATE,1.159152823633299,"['excel', 'communication']"
+HEALTHCARE,1.1587533007148325,"['communication', 'leadership']"
+SALES,1.158202288941282,"['excel', 'communication', 'leadership']"
+CHEF,1.1578885856971213,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.1574507016231705,['communication']
+AVIATION,1.1559415570046399,[]
+BANKING,1.155390727848214,"['excel', 'data analysis']"
+ENGINEERING,1.1538527634273652,[]
+BANKING,1.1538128982485942,"['excel', 'communication', 'leadership', 'react']"
+INFORMATION-TECHNOLOGY,1.1492534934072214,['excel']
+ENGINEERING,1.1477900436756239,"['excel', 'leadership']"
+ARTS,1.1471959776226046,['leadership']
+APPAREL,1.1444542710320633,"['excel', 'communication', 'leadership']"
+APPAREL,1.1427759461351044,['communication']
+BANKING,1.142386450452837,"['excel', 'communication']"
+AVIATION,1.1372736786749513,"['excel', 'communication', 'leadership']"
+FINANCE,1.136848966470211,"['excel', 'communication', 'leadership']"
+HR,1.135730236119495,['leadership']
+TEACHER,1.1352844134505138,['communication']
+APPAREL,1.1340357750218604,"['communication', 'leadership']"
+AVIATION,1.1329036419887866,"['excel', 'communication', 'leadership']"
+HR,1.1313253941052708,[]
+CONSULTANT,1.1297815362773476,['leadership']
+FITNESS,1.1290339701356467,"['excel', 'communication', 'leadership']"
+AGRICULTURE,1.1278596023145813,"['excel', 'communication', 'leadership']"
+DESIGNER,1.1262842024074329,[]
+BUSINESS-DEVELOPMENT,1.1261332864058,['excel']
+ADVOCATE,1.125563632808164,"['excel', 'communication']"
+ARTS,1.1249364530305013,"['excel', 'communication']"
+FITNESS,1.1238532479568484,"['excel', 'communication']"
+ADVOCATE,1.12340504529847,"['excel', 'communication']"
+AGRICULTURE,1.1212006625867859,['excel']
+PUBLIC-RELATIONS,1.1175297380294409,['communication']
+HEALTHCARE,1.1153991523505227,"['excel', 'leadership']"
+HEALTHCARE,1.1146301547947715,['communication']
+ACCOUNTANT,1.1139808574614751,"['excel', 'communication']"
+SALES,1.110324737535898,[]
+SALES,1.1086810836380603,"['excel', 'communication', 'leadership']"
+HR,1.1081362928498752,"['excel', 'communication']"
+DIGITAL-MEDIA,1.1075155025685846,"['excel', 'communication', 'leadership']"
+SALES,1.1071155055504789,"['excel', 'communication']"
+BANKING,1.1062668018516713,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,1.1056664774138414,['excel']
+AVIATION,1.1048927527912795,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.104127336059433,"['excel', 'communication']"
+FINANCE,1.1037350788604043,"['excel', 'communication', 'leadership']"
+DESIGNER,1.1032933248415981,"['excel', 'leadership']"
+FITNESS,1.1022759463593612,['communication']
+BUSINESS-DEVELOPMENT,1.1020647167435644,"['excel', 'communication', 'leadership']"
+APPAREL,1.1006098800677695,"['excel', 'communication', 'leadership']"
+FITNESS,1.0986680137479932,"['excel', 'communication']"
+ENGINEERING,1.0973367403063647,['leadership']
+TEACHER,1.0972170758939506,"['excel', 'communication']"
+CONSTRUCTION,1.0969837208609656,"['excel', 'communication', 'leadership']"
+BANKING,1.0951382455585836,['communication']
+DESIGNER,1.0935726293634378,['excel']
+CHEF,1.092996115105708,"['excel', 'leadership']"
+BANKING,1.0905250454932,"['communication', 'leadership']"
+ADVOCATE,1.0882249594122906,"['excel', 'communication']"
+PUBLIC-RELATIONS,1.0877110364401124,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,1.0865217812614434,"['excel', 'communication']"
+CONSTRUCTION,1.086475627931687,[]
+ENGINEERING,1.0847267544641386,['java']
+CHEF,1.084459177312069,"['excel', 'communication', 'leadership']"
+APPAREL,1.0823058909612775,['communication']
+FITNESS,1.0815035012152059,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,1.0802751050702477,"['excel', 'communication']"
+FINANCE,1.0788204635354632,[]
+HR,1.0775901537592467,"['excel', 'communication']"
+ACCOUNTANT,1.0759314785100758,['excel']
+BUSINESS-DEVELOPMENT,1.0750873897465762,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,1.0749750910117053,[]
+HR,1.0697330786093935,"['excel', 'communication']"
+ADVOCATE,1.0688536953137344,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,1.0678772734211033,"['communication', 'leadership']"
+AGRICULTURE,1.0667200802695649,"['excel', 'communication', 'leadership']"
+AVIATION,1.0661492018002174,[]
+AVIATION,1.064193878590625,"['communication', 'leadership']"
+FINANCE,1.062596060514284,['communication']
+APPAREL,1.0616829693503587,"['excel', 'communication']"
+AVIATION,1.0612857543510439,"['communication', 'leadership']"
+AGRICULTURE,1.0608508060959136,"['excel', 'communication', 'leadership']"
+FINANCE,1.058614135510441,"['excel', 'leadership']"
+FINANCE,1.0584886682002785,"['excel', 'communication']"
+CHEF,1.0584173622120217,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,1.0578011150968707,"['excel', 'leadership']"
+HEALTHCARE,1.054116435839764,['leadership']
+BUSINESS-DEVELOPMENT,1.0537930190952498,"['excel', 'communication']"
+AGRICULTURE,1.0532594723378523,"['excel', 'leadership', 'data analysis']"
+AVIATION,1.0532162881475622,"['excel', 'communication', 'leadership']"
+FITNESS,1.0527097212440584,['excel']
+ENGINEERING,1.0509069868927805,"['excel', 'communication']"
+HR,1.0505480489303876,"['excel', 'communication', 'leadership']"
+FINANCE,1.0504175544480436,"['excel', 'communication']"
+FITNESS,1.0498589143148607,"['excel', 'communication', 'leadership']"
+ENGINEERING,1.0497796627556213,['leadership']
+CONSTRUCTION,1.0491388142762166,[]
+BUSINESS-DEVELOPMENT,1.0487659113318977,"['excel', 'communication']"
+DESIGNER,1.0484527433896482,"['excel', 'communication']"
+CHEF,1.044726945576015,"['excel', 'communication']"
+SALES,1.0445712266561646,"['excel', 'communication']"
+AVIATION,1.042734608448959,[]
+ADVOCATE,1.0415341533320293,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,1.041186872036398,"['excel', 'communication']"
+AUTOMOBILE,1.040894876057864,"['excel', 'aws', 'communication']"
+HEALTHCARE,1.0367850631780438,['communication']
+HR,1.0359157315716103,"['excel', 'aws', 'leadership']"
+CONSTRUCTION,1.0356325893063376,"['excel', 'communication', 'leadership']"
+HEALTHCARE,1.0336217193158497,"['excel', 'leadership']"
+DESIGNER,1.032935439215239,"['excel', 'communication']"
+FITNESS,1.0279576891439701,"['excel', 'communication']"
+DESIGNER,1.026295627239493,"['excel', 'communication']"
+AGRICULTURE,1.0238622338661398,"['excel', 'communication']"
+DIGITAL-MEDIA,1.022560724416519,"['excel', 'leadership']"
+ARTS,1.0203151415003855,['excel']
+INFORMATION-TECHNOLOGY,1.0188477802070457,"['excel', 'communication']"
+SALES,1.0178281670361171,['communication']
+TEACHER,1.014873955056033,"['excel', 'communication']"
+CONSTRUCTION,1.010802098222656,['excel']
+HR,1.0098102506199933,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,1.0097181793030126,"['excel', 'communication', 'leadership']"
+CONSULTANT,1.0096355866184776,"['excel', 'communication']"
+DESIGNER,1.0084129102866037,"['excel', 'communication']"
+FINANCE,1.0046796014792827,['excel']
+APPAREL,1.0034047140112914,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,1.0015532957603723,"['excel', 'communication']"
+HEALTHCARE,1.0015312274637522,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,1.0011700025577739,"['excel', 'communication']"
+HR,1.0006312038405585,"['excel', 'communication', 'leadership']"
+AVIATION,0.9983805737100039,[]
+ACCOUNTANT,0.9975015461505483,"['excel', 'aws']"
+CONSULTANT,0.9973358904342285,"['excel', 'communication', 'leadership']"
+SALES,0.9969809125949028,"['excel', 'communication']"
+FITNESS,0.9957954075397467,[]
+ENGINEERING,0.9947129665735623,"['excel', 'communication']"
+DESIGNER,0.993755187315769,[]
+HEALTHCARE,0.9928557841477413,[]
+CONSTRUCTION,0.9927898836065412,['communication']
+SALES,0.9927499380254633,['excel']
+DIGITAL-MEDIA,0.9921494792542472,"['excel', 'communication', 'leadership']"
+ARTS,0.9916702366673333,"['excel', 'communication']"
+CONSULTANT,0.9916218184793872,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.9916024418534246,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,0.9905603516083858,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.9887795215920249,"['excel', 'communication']"
+ACCOUNTANT,0.9865648937534508,['excel']
+CHEF,0.9845735720862614,[]
+SALES,0.9842692093579821,"['excel', 'communication', 'leadership']"
+CHEF,0.9828138354781782,"['excel', 'communication']"
+FITNESS,0.9826514158670823,"['excel', 'communication']"
+FITNESS,0.982434237873159,['communication']
+SALES,0.9804943652242881,[]
+DIGITAL-MEDIA,0.979887060352832,"['excel', 'communication']"
+DIGITAL-MEDIA,0.9790795150903829,"['java', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,0.977022700688465,"['communication', 'leadership']"
+CONSULTANT,0.976676955383907,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.9756765628410501,"['excel', 'communication', 'leadership']"
+APPAREL,0.9754042355771289,"['excel', 'communication', 'leadership']"
+FITNESS,0.9745130468958422,['communication']
+DIGITAL-MEDIA,0.9741825512410216,"['excel', 'communication']"
+CHEF,0.9710755233829736,[]
+HR,0.9699919270983095,['excel']
+DESIGNER,0.9698380057366648,[]
+ADVOCATE,0.9693896608407195,"['excel', 'communication']"
+HEALTHCARE,0.9692701712187505,"['excel', 'leadership']"
+BANKING,0.9683570348559725,"['communication', 'leadership']"
+DIGITAL-MEDIA,0.9679297628369903,"['sql', 'excel', 'communication']"
+DESIGNER,0.9674610746183732,"['excel', 'communication']"
+AVIATION,0.9671143769570185,"['communication', 'leadership']"
+AVIATION,0.9670410051614879,[]
+ACCOUNTANT,0.9665674621523417,['excel']
+BANKING,0.9661579589846058,"['docker', 'leadership']"
+BANKING,0.9661348014482245,"['excel', 'communication']"
+AGRICULTURE,0.9657673971051948,"['communication', 'leadership']"
+ARTS,0.9632933344493373,['leadership']
+HR,0.9628495108966091,"['excel', 'communication']"
+AGRICULTURE,0.9627977244492896,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,0.9626195025069882,"['communication', 'leadership']"
+ACCOUNTANT,0.9610939756164288,['excel']
+APPAREL,0.9598223300491567,['excel']
+PUBLIC-RELATIONS,0.9597934635198084,"['communication', 'leadership']"
+SALES,0.95909037470963,['excel']
+CHEF,0.9575749868073358,['leadership']
+CHEF,0.9568499935715933,['communication']
+CONSTRUCTION,0.9562163484597463,[]
+ARTS,0.9547082453611675,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.954306839282305,"['excel', 'communication']"
+BANKING,0.9542019930156338,"['excel', 'communication', 'leadership']"
+SALES,0.9541157594219634,[]
+FITNESS,0.9519474673056385,[]
+CONSTRUCTION,0.9513739068816914,[]
+HEALTHCARE,0.9500242314335987,"['communication', 'leadership']"
+FITNESS,0.9488211518404227,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.9479340889800857,"['java', 'excel', 'leadership']"
+DESIGNER,0.9475329818800462,['excel']
+DESIGNER,0.9451784668059601,['excel']
+INFORMATION-TECHNOLOGY,0.9447834766215407,"['excel', 'communication']"
+DESIGNER,0.9444814198982264,"['excel', 'communication']"
+AVIATION,0.9438865357184991,[]
+AGRICULTURE,0.9423410126309354,['excel']
+BANKING,0.9396252982097307,['excel']
+CHEF,0.936534009580059,['excel']
+APPAREL,0.9361179621624335,"['excel', 'communication']"
+SALES,0.9357335681962561,['leadership']
+ACCOUNTANT,0.9355147958843633,['excel']
+SALES,0.9353863094631178,"['excel', 'communication']"
+CONSULTANT,0.9351297923595279,['excel']
+PUBLIC-RELATIONS,0.9346841750681169,['communication']
+HR,0.933875702453595,"['excel', 'leadership']"
+AVIATION,0.9338104271116948,['communication']
+FITNESS,0.9325622413937785,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.9323703775180507,"['excel', 'communication']"
+CONSULTANT,0.9307459849823743,['excel']
+CONSULTANT,0.9290445520029545,"['communication', 'leadership']"
+CHEF,0.9278588907875633,[]
+PUBLIC-RELATIONS,0.9272603457888325,['communication']
+SALES,0.9256545887360558,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,0.9232455321366616,"['excel', 'communication']"
+FITNESS,0.9231938762912805,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.921625854120705,['excel']
+PUBLIC-RELATIONS,0.9207516276389586,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.9197199441522311,"['communication', 'leadership']"
+FINANCE,0.9166962437231254,['excel']
+CHEF,0.9166838027880024,[]
+DESIGNER,0.9145691602658647,"['communication', 'leadership']"
+DESIGNER,0.913701529216683,['leadership']
+APPAREL,0.9126086266450256,['leadership']
+APPAREL,0.9107675330112339,['communication']
+BUSINESS-DEVELOPMENT,0.9097076346921121,['leadership']
+ACCOUNTANT,0.909348518984373,"['excel', 'data analysis']"
+CONSULTANT,0.9093289319203279,[]
+FITNESS,0.9089956303291078,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,0.9088415994362435,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.9087604240442413,"['communication', 'leadership']"
+DIGITAL-MEDIA,0.90874071488358,['excel']
+FITNESS,0.9086859933288678,"['excel', 'leadership']"
+DESIGNER,0.9077170709287741,"['excel', 'communication']"
+ENGINEERING,0.90353730440307,"['tableau', 'excel', 'leadership']"
+INFORMATION-TECHNOLOGY,0.9025720069785215,"['communication', 'leadership']"
+FITNESS,0.9023389456004742,"['excel', 'communication']"
+FINANCE,0.9012432898470476,['excel']
+ACCOUNTANT,0.8994768179997985,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.8989203476632618,"['communication', 'leadership']"
+ADVOCATE,0.8987558089189838,"['excel', 'communication', 'leadership']"
+HR,0.8986318949930325,['excel']
+ACCOUNTANT,0.8984294200657097,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,0.8977259613002775,"['communication', 'leadership']"
+AVIATION,0.8963661215689459,[]
+HR,0.8952935219344309,"['excel', 'communication']"
+CHEF,0.8949569822080619,"['excel', 'communication']"
+CONSTRUCTION,0.8949238073503711,['excel']
+ENGINEERING,0.892161893808374,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.8918068224069646,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.8910196505337316,['communication']
+TEACHER,0.8908592501360353,"['excel', 'communication']"
+FINANCE,0.8904881218891887,['leadership']
+BUSINESS-DEVELOPMENT,0.8902612010306177,"['communication', 'leadership']"
+ACCOUNTANT,0.8893321735193672,"['sql', 'excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.8881587565416602,['leadership']
+APPAREL,0.8881224198656328,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.8866453347403616,"['excel', 'leadership', 'data analysis']"
+CHEF,0.8863855922287134,"['excel', 'communication', 'leadership']"
+DESIGNER,0.8854796940525174,"['excel', 'communication']"
+FITNESS,0.8852236110864796,"['excel', 'communication']"
+AVIATION,0.8851786108204536,['communication']
+CONSTRUCTION,0.8847569462077841,"['excel', 'leadership']"
+HEALTHCARE,0.8842807305915622,['leadership']
+CONSULTANT,0.8842562347032531,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,0.8834802555664539,['excel']
+INFORMATION-TECHNOLOGY,0.8833527211786266,"['excel', 'communication']"
+CONSULTANT,0.8808032521536632,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.8803363889212908,[]
+PUBLIC-RELATIONS,0.8794457054967061,['excel']
+ACCOUNTANT,0.8784537888521268,['communication']
+FINANCE,0.8772248633984819,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.8767651505478147,['excel']
+BUSINESS-DEVELOPMENT,0.8742681831726287,['communication']
+FITNESS,0.8736905922077453,['excel']
+CHEF,0.8728090863591104,"['excel', 'communication']"
+ADVOCATE,0.8715395450216878,"['excel', 'communication', 'leadership']"
+FITNESS,0.8712937319395861,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.870957198595949,"['excel', 'communication']"
+ENGINEERING,0.8697858833037472,"['communication', 'leadership']"
+FITNESS,0.8687584550367086,['excel']
+APPAREL,0.8682730458838654,"['excel', 'communication', 'data analysis']"
+ADVOCATE,0.8675382995022167,"['tableau', 'excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,0.8648191407429691,"['excel', 'communication']"
+DESIGNER,0.8630403351432683,"['excel', 'communication']"
+DESIGNER,0.8611889638995791,"['excel', 'communication']"
+DIGITAL-MEDIA,0.8595977304696335,['communication']
+BANKING,0.8587242369907275,['excel']
+ACCOUNTANT,0.8554666618228273,['excel']
+FINANCE,0.8527522735612284,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.8507808610587333,"['excel', 'communication']"
+TEACHER,0.8494108666791913,"['excel', 'communication', 'leadership']"
+APPAREL,0.8491323725705675,"['excel', 'communication']"
+AVIATION,0.8488234795303177,['excel']
+ADVOCATE,0.8483572998939636,"['excel', 'leadership']"
+APPAREL,0.8476087394701414,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.8455354445493316,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.8451717923955891,['leadership']
+ADVOCATE,0.8450078299940563,"['excel', 'communication']"
+SALES,0.8446171485693097,"['excel', 'communication']"
+CONSULTANT,0.8444508407935768,"['java', 'communication']"
+HR,0.8416847554502008,"['excel', 'leadership', 'data analysis']"
+CONSULTANT,0.8402939803658329,['communication']
+ACCOUNTANT,0.8392236875260839,['excel']
+APPAREL,0.8380810097876936,"['excel', 'communication', 'leadership']"
+FINANCE,0.8359002456688932,[]
+CONSTRUCTION,0.8337212372666906,"['excel', 'communication', 'leadership']"
+ARTS,0.8337079804543209,"['excel', 'communication', 'leadership']"
+BANKING,0.8335225576997708,"['excel', 'communication', 'leadership']"
+CHEF,0.8322671125174753,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,0.8314213618530615,['excel']
+CONSTRUCTION,0.8306452111102216,['communication']
+ACCOUNTANT,0.829896517099365,"['excel', 'communication']"
+ENGINEERING,0.8295358852142137,[]
+CONSULTANT,0.8265131147982376,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.8245152972973254,['communication']
+BUSINESS-DEVELOPMENT,0.8243797632558721,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.8242342324478402,"['java', 'communication']"
+ACCOUNTANT,0.8223289363064965,['excel']
+ARTS,0.8194197538537564,['excel']
+FITNESS,0.8173935335257201,"['excel', 'leadership']"
+HR,0.8171094997868331,['excel']
+DIGITAL-MEDIA,0.8170791562798717,"['communication', 'leadership']"
+CONSULTANT,0.8155797675615494,"['java', 'sql']"
+HR,0.8137740952981636,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,0.8126377348893474,"['excel', 'communication', 'leadership']"
+TEACHER,0.8119963226260506,['leadership']
+SALES,0.8112504870124836,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,0.8101774382232415,"['communication', 'leadership']"
+CONSULTANT,0.8101663161702133,[]
+CHEF,0.8091876823928529,[]
+ADVOCATE,0.8076193610336467,['excel']
+SALES,0.8055234099379952,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,0.8043959070954333,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.8039924363873172,"['excel', 'communication', 'leadership']"
+CONSULTANT,0.8023293000188496,['excel']
+BANKING,0.8018572777394093,"['excel', 'communication']"
+ACCOUNTANT,0.8002619902142544,['excel']
+CONSTRUCTION,0.7997402220885068,"['excel', 'communication']"
+FITNESS,0.7959587538946967,['communication']
+FINANCE,0.7958303009896688,"['excel', 'communication']"
+ADVOCATE,0.7942573208313399,['excel']
+DIGITAL-MEDIA,0.7940941481725429,['communication']
+SALES,0.7916856322439507,['communication']
+INFORMATION-TECHNOLOGY,0.7914155564152938,['java']
+PUBLIC-RELATIONS,0.7867702921002503,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.7863288581842672,['communication']
+CHEF,0.786325784547981,['excel']
+CHEF,0.7843923038679168,[]
+AVIATION,0.7842475805749375,"['excel', 'communication', 'leadership']"
+FITNESS,0.7838248466287655,['leadership']
+HR,0.7837757060977822,['communication']
+SALES,0.7766187792699404,"['excel', 'leadership']"
+HEALTHCARE,0.7761336496941983,"['communication', 'leadership']"
+CONSULTANT,0.7761170844126823,"['excel', 'communication']"
+BPO,0.7754265740236321,"['communication', 'leadership']"
+CONSULTANT,0.7741013303150968,['communication']
+DIGITAL-MEDIA,0.7696349123552146,"['excel', 'data analysis']"
+BUSINESS-DEVELOPMENT,0.7690937362308907,"['communication', 'leadership']"
+BANKING,0.768396265887142,['leadership']
+DIGITAL-MEDIA,0.7683203579960588,"['communication', 'leadership']"
+ENGINEERING,0.7670207011743763,"['java', 'react']"
+DESIGNER,0.7662616921573306,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.7649546413107935,[]
+HEALTHCARE,0.7645624130950756,['excel']
+DIGITAL-MEDIA,0.7628242253386247,['excel']
+PUBLIC-RELATIONS,0.7623542472451401,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,0.7609858877659452,['excel']
+BPO,0.7587157742144325,"['leadership', 'data analysis']"
+CONSULTANT,0.7568366988899861,"['excel', 'leadership', 'data analysis']"
+ARTS,0.7518283143461031,"['excel', 'communication', 'leadership']"
+ADVOCATE,0.7517195677879989,[]
+ADVOCATE,0.7502755836229856,['excel']
+INFORMATION-TECHNOLOGY,0.7473549183467331,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.7472549358375888,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,0.7467127872043172,"['excel', 'communication']"
+FINANCE,0.7445954449194073,"['excel', 'communication', 'leadership']"
+ENGINEERING,0.7423772584790619,[]
+CONSULTANT,0.7409774811178992,['leadership']
+PUBLIC-RELATIONS,0.7405966933739788,['communication']
+SALES,0.7392954464171145,"['communication', 'leadership', 'data analysis']"
+DIGITAL-MEDIA,0.7379411823738663,"['excel', 'communication']"
+SALES,0.7358970897751427,"['excel', 'communication']"
+CONSTRUCTION,0.7354553729173636,"['excel', 'communication']"
+BANKING,0.7327346976660413,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.7325678230042136,['excel']
+ACCOUNTANT,0.7315095094512782,"['excel', 'communication']"
+ENGINEERING,0.7314415129818398,"['excel', 'communication']"
+SALES,0.7298963392295812,[]
+AGRICULTURE,0.7298941296122128,[]
+ARTS,0.7291768658485974,['leadership']
+ADVOCATE,0.7286677629919367,"['communication', 'leadership']"
+ARTS,0.7282969820253686,"['excel', 'communication']"
+BUSINESS-DEVELOPMENT,0.7280529475733437,[]
+INFORMATION-TECHNOLOGY,0.7274503708625016,['react']
+APPAREL,0.7265509688871923,"['excel', 'communication']"
+CONSTRUCTION,0.7235877959042583,['excel']
+FITNESS,0.7235177619260489,"['excel', 'leadership']"
+AVIATION,0.7204244592901878,"['excel', 'leadership']"
+PUBLIC-RELATIONS,0.7201577284651836,['communication']
+CONSTRUCTION,0.7192906542185338,"['communication', 'leadership']"
+HR,0.7184385875978256,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.7173555870796534,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,0.7168915769830345,"['excel', 'leadership']"
+FITNESS,0.7162398022740892,['communication']
+CONSTRUCTION,0.714782485537573,"['communication', 'leadership']"
+DESIGNER,0.7145065024733452,['communication']
+CONSULTANT,0.7140168071032934,"['excel', 'leadership']"
+FINANCE,0.7137560386159401,"['excel', 'communication']"
+FINANCE,0.7133233002080291,['leadership']
+DIGITAL-MEDIA,0.71001624531252,"['java', 'excel', 'leadership']"
+FITNESS,0.7092572342814614,[]
+FINANCE,0.7092505830130093,"['excel', 'leadership']"
+DESIGNER,0.7084653849215962,"['excel', 'communication', 'leadership']"
+ENGINEERING,0.7081140618276555,[]
+SALES,0.7074562509826238,"['excel', 'communication']"
+CONSTRUCTION,0.7061596353144443,"['excel', 'communication']"
+AVIATION,0.7055039170730778,['excel']
+APPAREL,0.7051082545176027,"['excel', 'communication', 'react']"
+TEACHER,0.704961247105602,"['excel', 'communication', 'leadership']"
+AVIATION,0.7030117435868403,"['communication', 'leadership']"
+AGRICULTURE,0.7022068633691494,['leadership']
+ARTS,0.7020752901700416,[]
+ACCOUNTANT,0.7002828313336703,"['excel', 'communication', 'leadership']"
+FITNESS,0.6993821403468087,[]
+HR,0.6985179418960005,"['excel', 'communication']"
+ADVOCATE,0.6964421490632637,[]
+CHEF,0.6963785284293502,[]
+ARTS,0.6959055821203887,['leadership']
+ENGINEERING,0.6954895224471571,"['leadership', 'react']"
+AVIATION,0.6948618502955309,"['excel', 'communication']"
+FITNESS,0.6940205933869361,"['excel', 'leadership']"
+CHEF,0.6930744781733787,[]
+APPAREL,0.6929011537307378,"['excel', 'communication', 'leadership', 'react']"
+ADVOCATE,0.6926338943057115,['communication']
+FINANCE,0.6906628470433117,"['excel', 'communication']"
+FITNESS,0.6903589508847788,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.6901965088133898,[]
+BUSINESS-DEVELOPMENT,0.6895854500732342,"['communication', 'leadership']"
+DESIGNER,0.6886670981231142,['communication']
+CHEF,0.6883286204637495,['leadership']
+BUSINESS-DEVELOPMENT,0.6867955756297092,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,0.6862784177313718,"['excel', 'communication', 'leadership']"
+HR,0.6827746347872764,"['excel', 'communication', 'leadership']"
+FITNESS,0.6826751888939891,"['excel', 'communication']"
+PUBLIC-RELATIONS,0.6795602457245533,['excel']
+HR,0.6788202916846607,[]
+FITNESS,0.6781038002663384,"['excel', 'communication']"
+APPAREL,0.6777646954122304,"['communication', 'leadership']"
+ENGINEERING,0.6761142556957163,"['java', 'communication']"
+HR,0.6760389010085717,['excel']
+BUSINESS-DEVELOPMENT,0.6759800361962276,['excel']
+FITNESS,0.6750572579759196,[]
+TEACHER,0.6719131297656408,[]
+AVIATION,0.6718608401555773,['java']
+CHEF,0.6713817874213978,[]
+ENGINEERING,0.6677349900159679,[]
+ENGINEERING,0.6658575613976647,[]
+DESIGNER,0.6652148016813676,"['excel', 'communication', 'leadership']"
+AGRICULTURE,0.6648325374937094,"['excel', 'communication', 'leadership']"
+SALES,0.6637718254530647,['excel']
+PUBLIC-RELATIONS,0.6621075449863003,"['communication', 'leadership']"
+ARTS,0.6620374801357233,[]
+FINANCE,0.6612079948679803,['communication']
+FINANCE,0.6582308810359336,['excel']
+BUSINESS-DEVELOPMENT,0.6573289391098895,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.6561177388618611,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.6542878824225251,['communication']
+PUBLIC-RELATIONS,0.6537801962493777,['communication']
+AVIATION,0.652351321152038,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.650505000603724,"['excel', 'communication']"
+DESIGNER,0.6503384093102386,['excel']
+FINANCE,0.6499177123521032,['excel']
+ENGINEERING,0.6498134131083404,"['sql', 'excel', 'communication', 'leadership']"
+SALES,0.646772889061886,"['excel', 'communication']"
+BANKING,0.6465489632732896,['data analysis']
+CONSULTANT,0.6456875146065054,['communication']
+CHEF,0.6452110344872152,['excel']
+FITNESS,0.6409929470864656,['excel']
+INFORMATION-TECHNOLOGY,0.6404704308371433,"['excel', 'communication']"
+ARTS,0.6396741136435248,['communication']
+DIGITAL-MEDIA,0.6395970699267801,[]
+AVIATION,0.6390111493705154,"['excel', 'leadership']"
+CHEF,0.6385089819570655,['leadership']
+PUBLIC-RELATIONS,0.6370603525728196,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.6366688351949901,"['communication', 'leadership']"
+INFORMATION-TECHNOLOGY,0.6362993226377709,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.6360612062245734,"['excel', 'leadership']"
+CHEF,0.6351651456811455,[]
+APPAREL,0.6348733828567066,['excel']
+BUSINESS-DEVELOPMENT,0.6343202511368468,['leadership']
+HR,0.6328622215698574,"['excel', 'aws', 'leadership']"
+CONSULTANT,0.6308845273792074,['excel']
+SALES,0.6301951338819928,"['excel', 'leadership']"
+CONSTRUCTION,0.6298815328817196,"['leadership', 'data analysis']"
+CHEF,0.628194466795663,[]
+INFORMATION-TECHNOLOGY,0.6277418985533193,['communication']
+DESIGNER,0.6272332457086447,[]
+APPAREL,0.6260750906501352,"['excel', 'leadership']"
+HEALTHCARE,0.6200218990209511,['leadership']
+CHEF,0.6190603846006724,['excel']
+CONSTRUCTION,0.6187961270092942,"['communication', 'leadership']"
+CONSULTANT,0.6180441731968186,['excel']
+AGRICULTURE,0.6176520431173621,"['excel', 'data analysis']"
+HR,0.6160814275783082,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.6150936529379031,"['excel', 'communication', 'leadership']"
+HR,0.6133473062330376,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.6131888216865653,['leadership']
+ARTS,0.6121155078770923,"['excel', 'communication', 'leadership']"
+ENGINEERING,0.6119793719988621,"['excel', 'communication']"
+AVIATION,0.6119580179809057,"['excel', 'communication']"
+CONSTRUCTION,0.6108472296858927,"['excel', 'communication', 'leadership']"
+FITNESS,0.6101934520472524,['leadership']
+ENGINEERING,0.6086351313001602,"['java', 'communication']"
+CONSULTANT,0.6082022906873337,['excel']
+FINANCE,0.6072769645290155,"['leadership', 'data analysis']"
+TEACHER,0.6070858008707183,"['excel', 'communication', 'leadership']"
+FINANCE,0.606733592177454,"['excel', 'data analysis']"
+DIGITAL-MEDIA,0.6061910580034875,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.6054002626830807,['communication']
+BUSINESS-DEVELOPMENT,0.6040119927064695,"['excel', 'leadership']"
+DIGITAL-MEDIA,0.6037471970017796,"['communication', 'data analysis']"
+PUBLIC-RELATIONS,0.6029058163574287,"['excel', 'communication']"
+DESIGNER,0.6025175531250745,['communication']
+ADVOCATE,0.599108218181714,['communication']
+HEALTHCARE,0.5930075292816311,"['communication', 'leadership']"
+ENGINEERING,0.5926632821458901,['react']
+ADVOCATE,0.5925259935167642,"['excel', 'communication', 'leadership']"
+APPAREL,0.5920150280589518,['communication']
+APPAREL,0.5875794389295625,[]
+CONSULTANT,0.5871352094454466,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,0.5861053589237544,['excel']
+DESIGNER,0.5855505336920355,"['excel', 'communication']"
+HEALTHCARE,0.5850417288559254,['communication']
+INFORMATION-TECHNOLOGY,0.5834503926827983,"['excel', 'communication', 'leadership']"
+CHEF,0.583210593678038,['excel']
+AUTOMOBILE,0.5819720037116836,"['excel', 'data analysis']"
+CONSTRUCTION,0.5817420428425529,"['communication', 'leadership']"
+CHEF,0.5803517259804913,['leadership']
+FINANCE,0.5803389102009908,"['excel', 'communication', 'leadership']"
+ENGINEERING,0.5779285947341624,"['excel', 'leadership']"
+PUBLIC-RELATIONS,0.5761773852098312,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,0.5757983794692279,['communication']
+HEALTHCARE,0.5751261567786244,['react']
+PUBLIC-RELATIONS,0.574180777513687,['communication']
+CHEF,0.5734571762547656,['excel']
+CONSTRUCTION,0.5729980203833086,"['excel', 'communication', 'leadership']"
+HEALTHCARE,0.5722852810873006,['excel']
+DIGITAL-MEDIA,0.5722563910925383,"['excel', 'communication']"
+ARTS,0.5721054246325253,['excel']
+HEALTHCARE,0.5698307366720943,"['excel', 'leadership']"
+APPAREL,0.5675136766440709,['communication']
+APPAREL,0.5671553353388155,['excel']
+ACCOUNTANT,0.5655347022333912,"['excel', 'communication']"
+CHEF,0.5652378581848755,['communication']
+HEALTHCARE,0.5650947333655171,['excel']
+ENGINEERING,0.5649711677438248,"['java', 'communication']"
+HEALTHCARE,0.5622823706199848,['communication']
+DESIGNER,0.5622251316478828,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.5609390782338914,"['excel', 'communication', 'leadership']"
+HR,0.5596093318869501,['excel']
+CONSULTANT,0.5589899998525967,['communication']
+CONSTRUCTION,0.5583004875502131,"['excel', 'communication']"
+SALES,0.5582979789537175,"['excel', 'communication', 'leadership']"
+DESIGNER,0.5561704925477157,"['excel', 'communication']"
+SALES,0.5539833517821194,"['excel', 'communication', 'leadership']"
+HR,0.5531382356670487,"['leadership', 'data analysis']"
+BUSINESS-DEVELOPMENT,0.5507674535080668,['excel']
+CONSULTANT,0.5502365386349316,"['excel', 'communication']"
+HEALTHCARE,0.5495556769765745,['aws']
+AVIATION,0.5463968133493239,"['excel', 'communication']"
+TEACHER,0.5460600913222055,['leadership']
+BUSINESS-DEVELOPMENT,0.5452225262276591,['excel']
+BANKING,0.5448849919849097,"['excel', 'leadership']"
+BANKING,0.5448001399922222,['excel']
+BUSINESS-DEVELOPMENT,0.544259311307794,[]
+FITNESS,0.543848275677816,['leadership']
+CONSTRUCTION,0.5407040696362909,['communication']
+ARTS,0.5384823210472633,['excel']
+HR,0.5377657471757686,['communication']
+HR,0.5367079393486277,"['excel', 'aws', 'leadership']"
+FINANCE,0.5364229228512155,"['excel', 'communication', 'leadership']"
+CONSTRUCTION,0.5363643111966027,"['excel', 'leadership']"
+DESIGNER,0.5357824918201723,"['excel', 'communication']"
+FINANCE,0.535760892952659,['excel']
+FINANCE,0.5352610206961275,"['excel', 'communication', 'leadership']"
+SALES,0.5350464909525663,"['excel', 'communication']"
+FINANCE,0.5340680032000338,"['excel', 'leadership']"
+AUTOMOBILE,0.5338586017230158,['excel']
+HEALTHCARE,0.5328463680935138,"['excel', 'leadership']"
+ACCOUNTANT,0.5313741113984546,['communication']
+FINANCE,0.5308694295775875,"['excel', 'communication', 'leadership']"
+AVIATION,0.5303888968393922,[]
+BANKING,0.5286898385770091,"['excel', 'communication', 'leadership']"
+TEACHER,0.5284898704078204,"['excel', 'communication']"
+AVIATION,0.5277563592916458,"['excel', 'leadership']"
+HR,0.5276148576166585,['communication']
+FINANCE,0.5274939686278333,"['excel', 'leadership']"
+CONSTRUCTION,0.5269801360599341,"['communication', 'leadership']"
+SALES,0.5245306844249431,"['excel', 'communication']"
+CONSTRUCTION,0.5242754252540784,"['excel', 'communication']"
+ADVOCATE,0.5240275508003972,"['communication', 'leadership']"
+FINANCE,0.5226109467785949,['excel']
+ADVOCATE,0.5224545113936849,['excel']
+HR,0.5211207823430777,['excel']
+DIGITAL-MEDIA,0.5198035942998708,"['excel', 'communication']"
+FITNESS,0.5187200403939001,['leadership']
+DIGITAL-MEDIA,0.5183625619732102,"['communication', 'leadership']"
+CHEF,0.5173039141489771,['excel']
+CONSULTANT,0.5170856399118362,"['excel', 'communication']"
+ADVOCATE,0.5162720068659681,"['excel', 'communication']"
+CHEF,0.5160194562081543,['leadership']
+CONSULTANT,0.5154115589961846,['communication']
+ADVOCATE,0.5149305665966419,"['communication', 'leadership']"
+APPAREL,0.5123224061578139,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.5112586525076933,"['excel', 'communication', 'leadership']"
+AUTOMOBILE,0.510037273711104,"['communication', 'leadership']"
+CONSTRUCTION,0.5091579035050006,"['excel', 'communication']"
+CHEF,0.5080085969945211,['leadership']
+ACCOUNTANT,0.5056371167355069,[]
+ACCOUNTANT,0.5049429390656884,['excel']
+CONSTRUCTION,0.5040833619000823,"['excel', 'communication']"
+CONSTRUCTION,0.5037255117382171,['excel']
+ADVOCATE,0.49662468757189354,['excel']
+BANKING,0.49366478736459807,[]
+ENGINEERING,0.4925723124080552,"['java', 'communication']"
+ENGINEERING,0.49158825569048686,"['java', 'communication']"
+ACCOUNTANT,0.4914950907081448,['excel']
+SALES,0.4898061939558846,['excel']
+BUSINESS-DEVELOPMENT,0.4880002617249752,['excel']
+ENGINEERING,0.48765499121884176,"['excel', 'communication']"
+CONSTRUCTION,0.4875799928120304,['excel']
+BUSINESS-DEVELOPMENT,0.4869896511820268,['communication']
+HR,0.48686172379258424,['excel']
+ARTS,0.4858707205943166,"['excel', 'communication']"
+ARTS,0.48554164492373736,['communication']
+BANKING,0.483670212842826,['excel']
+CONSTRUCTION,0.48227030896497947,['excel']
+FITNESS,0.48191086145737,['excel']
+ACCOUNTANT,0.4784590898398418,['excel']
+APPAREL,0.47804382898464515,"['excel', 'communication', 'leadership']"
+INFORMATION-TECHNOLOGY,0.4775457842935274,"['excel', 'communication']"
+BANKING,0.476373914250886,"['communication', 'leadership']"
+ARTS,0.47627223794735263,"['java', 'leadership']"
+APPAREL,0.4760356195671866,[]
+CHEF,0.46949355888228284,[]
+DESIGNER,0.4691347484954561,"['excel', 'communication']"
+APPAREL,0.4676329011659481,[]
+CHEF,0.46744584618873786,"['excel', 'leadership']"
+PUBLIC-RELATIONS,0.466593536701949,"['communication', 'leadership']"
+CONSTRUCTION,0.4657200704210813,"['excel', 'communication']"
+INFORMATION-TECHNOLOGY,0.46556541192670586,"['sql', 'communication', 'leadership']"
+CHEF,0.4655323560263453,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.46499485937402557,"['excel', 'leadership']"
+SALES,0.46451115793185604,"['excel', 'leadership']"
+CONSTRUCTION,0.4635216564825463,[]
+CONSTRUCTION,0.4634625416505295,[]
+PUBLIC-RELATIONS,0.4623414576720694,['excel']
+BUSINESS-DEVELOPMENT,0.4607141977721145,['leadership']
+ACCOUNTANT,0.45899478551345607,"['excel', 'leadership']"
+HR,0.45739187034490264,"['communication', 'leadership']"
+FITNESS,0.4543812142006584,['excel']
+SALES,0.4541469035437522,"['excel', 'communication']"
+ADVOCATE,0.4538086971910692,"['excel', 'leadership']"
+HEALTHCARE,0.452060205173664,['leadership']
+SALES,0.45095553266889016,[]
+DESIGNER,0.44824812405211306,"['excel', 'communication']"
+BANKING,0.4458592726084566,"['communication', 'leadership']"
+CHEF,0.445531442678745,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,0.4447978780704866,['communication']
+ACCOUNTANT,0.4444883942307621,['excel']
+CONSULTANT,0.44440159547937014,['communication']
+DESIGNER,0.444027627190602,[]
+SALES,0.4432594319311269,[]
+FITNESS,0.44188244557645406,"['excel', 'communication']"
+HR,0.4416272083986073,['leadership']
+ADVOCATE,0.44158890877622176,"['excel', 'leadership']"
+PUBLIC-RELATIONS,0.4384059146953707,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.43778685449508525,['excel']
+DIGITAL-MEDIA,0.4375651169423598,['leadership']
+APPAREL,0.43599552325300894,['communication']
+HR,0.4358095203391603,['communication']
+FINANCE,0.43447177131601245,"['communication', 'leadership']"
+AGRICULTURE,0.4344581244500641,"['excel', 'communication', 'leadership']"
+APPAREL,0.4339074031121326,"['excel', 'communication']"
+CHEF,0.4335968288975896,"['excel', 'communication']"
+ARTS,0.4334101677161058,['communication']
+HR,0.4326156192277221,['leadership']
+DESIGNER,0.4317722347359218,['leadership']
+AGRICULTURE,0.43155387550496427,['communication']
+AVIATION,0.43150958238484144,['excel']
+FINANCE,0.4308126599340249,"['excel', 'communication', 'leadership']"
+AGRICULTURE,0.42814431948033393,[]
+HEALTHCARE,0.4272339371234637,"['aws', 'communication', 'leadership']"
+CHEF,0.4270417612607034,"['excel', 'leadership']"
+APPAREL,0.4268600611636367,['react']
+HEALTHCARE,0.42652168261012324,"['excel', 'leadership']"
+FINANCE,0.4264610057249542,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.42616376642138143,"['excel', 'leadership']"
+SALES,0.4258656986627916,['excel']
+ADVOCATE,0.4254501319396629,"['communication', 'leadership']"
+FITNESS,0.4246210244870718,[]
+HEALTHCARE,0.4227632226669488,['leadership']
+AVIATION,0.4220222721989089,[]
+ACCOUNTANT,0.4217111745856645,"['excel', 'data analysis']"
+FINANCE,0.4212524060697196,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.4205081177370587,"['communication', 'leadership']"
+HR,0.42042257866357413,['leadership']
+ACCOUNTANT,0.41969521743983484,['excel']
+DIGITAL-MEDIA,0.4194779862864493,"['excel', 'communication', 'leadership']"
+DESIGNER,0.4180645012557171,['communication']
+DIGITAL-MEDIA,0.41779899445341073,"['excel', 'leadership']"
+ENGINEERING,0.41682671627817425,[]
+CHEF,0.4152639354807194,['excel']
+AVIATION,0.4123200413776329,['excel']
+DESIGNER,0.41212798716168936,"['communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.4104279244487912,"['excel', 'leadership']"
+PUBLIC-RELATIONS,0.4102053244538862,['data analysis']
+ENGINEERING,0.4091959182622962,"['java', 'communication']"
+ADVOCATE,0.4084151457925661,"['communication', 'leadership']"
+BANKING,0.4069509822711443,"['excel', 'communication', 'leadership']"
+BANKING,0.4058176569146733,['leadership']
+DIGITAL-MEDIA,0.4045262158333259,"['communication', 'leadership']"
+ADVOCATE,0.40232382053797305,[]
+FINANCE,0.3989703099774673,"['excel', 'communication', 'leadership']"
+FITNESS,0.3977379255967883,['leadership']
+CHEF,0.39647895737998284,['communication']
+ENGINEERING,0.396359664371666,['leadership']
+CHEF,0.39160476968811836,"['excel', 'communication']"
+ADVOCATE,0.3909551319005637,"['sql', 'excel', 'leadership']"
+APPAREL,0.3888271483200529,"['communication', 'leadership']"
+BANKING,0.3888016530937624,['excel']
+ACCOUNTANT,0.3880455677369195,['excel']
+PUBLIC-RELATIONS,0.3874969929637306,"['excel', 'communication']"
+FINANCE,0.38723692083309336,"['excel', 'leadership']"
+BANKING,0.3863555207488127,"['excel', 'leadership']"
+BANKING,0.38633755593480723,"['excel', 'leadership']"
+APPAREL,0.3852310325810173,"['excel', 'communication']"
+CHEF,0.38457370613973185,"['excel', 'leadership']"
+CHEF,0.38051724178481355,['excel']
+CHEF,0.38000900610034366,['excel']
+ADVOCATE,0.37771586188779144,[]
+FINANCE,0.3762413699350802,"['excel', 'communication']"
+FITNESS,0.3760324871831068,"['excel', 'communication', 'leadership']"
+PUBLIC-RELATIONS,0.3758135028628536,"['excel', 'communication', 'leadership']"
+SALES,0.37553016218127055,"['excel', 'communication']"
+AUTOMOBILE,0.3747986714062636,[]
+PUBLIC-RELATIONS,0.3747366438460396,"['tableau', 'excel', 'communication']"
+CHEF,0.3731385102712802,['java']
+ENGINEERING,0.37291799578127355,"['excel', 'communication']"
+BANKING,0.37125232817988746,['excel']
+ACCOUNTANT,0.37007682333279646,['excel']
+ARTS,0.3686589130044399,['excel']
+SALES,0.36776909939178204,"['excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.3664581326186271,['excel']
+DESIGNER,0.3640254755725319,['communication']
+BUSINESS-DEVELOPMENT,0.3635294664785082,[]
+SALES,0.3616347567363356,['leadership']
+HR,0.35931777052029634,"['excel', 'communication', 'leadership']"
+FITNESS,0.35656117265394266,"['communication', 'leadership']"
+SALES,0.3554695333904824,[]
+AUTOMOBILE,0.3517008095546522,['communication']
+CONSTRUCTION,0.35114812177515065,[]
+BUSINESS-DEVELOPMENT,0.35029951323369146,['leadership']
+PUBLIC-RELATIONS,0.3502213516729262,"['excel', 'communication']"
+CHEF,0.3490558366984302,['leadership']
+DESIGNER,0.34568932461886737,['communication']
+CHEF,0.3438137907394117,"['excel', 'communication', 'leadership']"
+AGRICULTURE,0.34327253287600723,"['excel', 'communication', 'leadership']"
+DESIGNER,0.3425156695066829,['leadership']
+HEALTHCARE,0.3398426840841365,[]
+CONSTRUCTION,0.3393185285142576,"['communication', 'leadership']"
+BANKING,0.33913406306399796,[]
+CONSULTANT,0.3367117642746552,['excel']
+DESIGNER,0.33633908893680664,[]
+APPAREL,0.33571712869004355,"['excel', 'leadership']"
+SALES,0.33352282827035196,['excel']
+AUTOMOBILE,0.33316753545332184,[]
+CHEF,0.32904218752789505,[]
+BUSINESS-DEVELOPMENT,0.3278972260292229,['leadership']
+HEALTHCARE,0.3242184961349318,[]
+DESIGNER,0.3237519695636172,['leadership']
+ARTS,0.32154452244680176,"['communication', 'leadership']"
+FINANCE,0.3215307329335673,"['aws', 'leadership']"
+BUSINESS-DEVELOPMENT,0.32017426045335357,['communication']
+CHEF,0.3196981695099153,"['excel', 'leadership']"
+DIGITAL-MEDIA,0.31956071947299686,"['java', 'excel']"
+BANKING,0.3178367576188568,['excel']
+CHEF,0.3178051999385818,"['excel', 'communication']"
+CHEF,0.3135648238961887,['leadership']
+APPAREL,0.3109772853481418,[]
+AVIATION,0.3103858871186607,['excel']
+SALES,0.31034610038099025,['excel']
+ENGINEERING,0.3097868263974206,[]
+CHEF,0.3077518389818022,['excel']
+BANKING,0.3073116471908794,['leadership']
+FITNESS,0.3058943967481532,"['communication', 'leadership']"
+AUTOMOBILE,0.3050938231682964,['excel']
+BANKING,0.3046583706349776,"['excel', 'communication', 'leadership']"
+DIGITAL-MEDIA,0.3042852072839507,"['communication', 'leadership']"
+ACCOUNTANT,0.2993815558635171,['excel']
+BPO,0.29854736302286233,"['excel', 'communication']"
+CHEF,0.29849474510598134,"['excel', 'communication']"
+AUTOMOBILE,0.2979748521686693,['excel']
+BPO,0.29746905010305413,"['communication', 'leadership']"
+FITNESS,0.2957843701585694,"['excel', 'leadership']"
+APPAREL,0.29462802156062085,[]
+FINANCE,0.2931767195687697,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.292782448096602,"['excel', 'leadership']"
+DESIGNER,0.28898231331876245,[]
+CONSTRUCTION,0.2888894059191405,['excel']
+CHEF,0.2884237418797416,['leadership']
+DESIGNER,0.28727353143039464,[]
+CHEF,0.28726817905507507,[]
+AVIATION,0.28360397948426236,['excel']
+APPAREL,0.28296960737567745,['leadership']
+AGRICULTURE,0.2825069334258752,"['excel', 'leadership']"
+ARTS,0.28210061285459453,"['excel', 'communication']"
+CONSULTANT,0.2816133115494098,"['excel', 'communication']"
+AGRICULTURE,0.28111089996083094,['communication']
+AVIATION,0.2798968176356278,[]
+BANKING,0.2765666516571086,"['excel', 'leadership']"
+DESIGNER,0.27486509976140994,"['excel', 'communication']"
+DIGITAL-MEDIA,0.27296297372514927,['leadership']
+ENGINEERING,0.2725162158822904,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.2676368672443921,"['communication', 'leadership']"
+SALES,0.26671572513824626,"['excel', 'leadership']"
+INFORMATION-TECHNOLOGY,0.2663440330784616,[]
+CHEF,0.2653979985611327,[]
+CONSULTANT,0.26517360836307524,['communication']
+BANKING,0.2641337260604264,"['excel', 'communication', 'leadership']"
+ACCOUNTANT,0.2633921158961488,['excel']
+FINANCE,0.2627830179607083,"['tableau', 'excel', 'communication', 'leadership']"
+BUSINESS-DEVELOPMENT,0.2618125675013541,['leadership']
+FINANCE,0.2597278029367724,['excel']
+DIGITAL-MEDIA,0.2590348924302909,"['communication', 'leadership']"
+CONSULTANT,0.2583227517983147,"['excel', 'leadership']"
+ENGINEERING,0.2578177727641014,"['excel', 'leadership']"
+HEALTHCARE,0.2577821531574904,['communication']
+AUTOMOBILE,0.25762675165895926,[]
+ACCOUNTANT,0.25705809942716323,[]
+BUSINESS-DEVELOPMENT,0.25560298561087974,['excel']
+FITNESS,0.25313581048863765,['leadership']
+CHEF,0.2520262986651655,"['communication', 'leadership']"
+AUTOMOBILE,0.2501292590468766,"['excel', 'leadership']"
+DESIGNER,0.249420489341524,"['communication', 'leadership']"
+CONSULTANT,0.24846106124932316,['leadership']
+HR,0.24713335624873492,"['communication', 'leadership']"
+CHEF,0.24619407176490743,['leadership']
+BANKING,0.24407044341112621,['communication']
+DESIGNER,0.24125984229846775,"['excel', 'communication', 'leadership']"
+HR,0.23813335633027555,['leadership']
+CHEF,0.23790422343495946,[]
+BANKING,0.2354352125699516,"['excel', 'leadership']"
+CHEF,0.23413523872949385,[]
+BPO,0.23100660629180036,['communication']
+APPAREL,0.2281467671330411,"['excel', 'communication']"
+AVIATION,0.22741385529585814,[]
+FITNESS,0.22396849356193863,"['excel', 'communication']"
+ARTS,0.2220564444573117,"['excel', 'communication', 'leadership']"
+DESIGNER,0.21939275846619977,[]
+CHEF,0.21879974077878914,[]
+ACCOUNTANT,0.2184187794571692,[]
+AVIATION,0.21610205020776646,['leadership']
+AVIATION,0.21330142708259164,[]
+APPAREL,0.21249474630532322,"['excel', 'communication', 'leadership', 'react']"
+ADVOCATE,0.21131314484424502,"['excel', 'leadership']"
+FITNESS,0.20918896012023905,['leadership']
+TEACHER,0.2077917761148412,[]
+DESIGNER,0.20549808292031768,[]
+HR,0.2029519350401026,"['excel', 'leadership']"
+APPAREL,0.20082051411860463,[]
+DESIGNER,0.20041270407264553,['excel']
+ACCOUNTANT,0.19839303437814682,['excel']
+APPAREL,0.19696066869981313,[]
+BPO,0.19148344479918916,['leadership']
+ARTS,0.1900239721955461,['excel']
+DESIGNER,0.18913401842918373,['react']
+CONSTRUCTION,0.18609180027230254,['excel']
+HR,0.18603145211980088,['leadership']
+ENGINEERING,0.18602736402431244,['leadership']
+ACCOUNTANT,0.1831912513630421,['excel']
+CHEF,0.17776411527205746,['excel']
+ENGINEERING,0.1772797693893705,['sql']
+HR,0.17365835463684798,[]
+CHEF,0.17264370193639647,['excel']
+ENGINEERING,0.1720290444327795,['excel']
+BANKING,0.17107616076288842,[]
+DESIGNER,0.1657351480077385,"['communication', 'leadership']"
+HEALTHCARE,0.16204849573827887,['leadership']
+CHEF,0.16180774149272206,[]
+BUSINESS-DEVELOPMENT,0.16108877552337086,['excel']
+ARTS,0.1584336444943501,[]
+FINANCE,0.15825193154160797,['communication']
+CONSTRUCTION,0.15728274390833352,[]
+BANKING,0.1564419659184233,['excel']
+BANKING,0.15259566311400752,['excel']
+CONSTRUCTION,0.15167826333555012,['excel']
+CHEF,0.15139156289403427,['excel']
+SALES,0.1507703131066243,[]
+DESIGNER,0.14775439483439007,[]
+SALES,0.14714939034519342,[]
+CHEF,0.1465976980816656,['leadership']
+APPAREL,0.14584887794179907,"['excel', 'leadership']"
+CONSULTANT,0.13920121335650973,[]
+FITNESS,0.1376944378143753,"['excel', 'communication', 'leadership']"
+ARTS,0.137567825977987,['communication']
+BPO,0.13730170955764337,['excel']
+CONSTRUCTION,0.13638021870098985,['communication']
+DESIGNER,0.13596806893899244,['leadership']
+FITNESS,0.1356916824451023,[]
+TEACHER,0.1353355601992441,[]
+CHEF,0.13390657367577233,['leadership']
+ADVOCATE,0.13228385684128005,"['excel', 'communication', 'leadership']"
+APPAREL,0.12865587585808416,['excel']
+TEACHER,0.12635465698652767,['leadership']
+APPAREL,0.12531487399353042,['excel']
+CONSULTANT,0.12396806764158423,"['excel', 'leadership']"
+BPO,0.12311073183789788,['leadership']
+HEALTHCARE,0.12038261052568851,"['excel', 'react']"
+CONSTRUCTION,0.11798114330974693,['excel']
+CONSULTANT,0.11698327885272006,['excel']
+CONSTRUCTION,0.11443112095762396,[]
+AVIATION,0.11437851517710068,[]
+HEALTHCARE,0.1135327940397465,['excel']
+FINANCE,0.11325286354693538,['excel']
+CHEF,0.11258695642923328,[]
+DESIGNER,0.11249103864666671,[]
+DESIGNER,0.11122560834244194,[]
+APPAREL,0.10991902218521693,"['excel', 'leadership']"
+CONSTRUCTION,0.1098114345296123,['excel']
+PUBLIC-RELATIONS,0.10738951689571456,['excel']
+AGRICULTURE,0.10693175245934125,[]
+BPO,0.09966060790960451,['excel']
+BANKING,0.09868094222304383,['leadership']
+ENGINEERING,0.09844159907256313,['excel']
+CONSULTANT,0.09768856340701505,[]
+BANKING,0.09697827040129343,[]
+CONSULTANT,0.0964302990400599,[]
+AVIATION,0.09630285276503349,[]
+ARTS,0.09571734585840712,[]
+BANKING,0.09523994983342508,"['excel', 'leadership']"
+FINANCE,0.09187152171357878,['excel']
+BANKING,0.09074189045905982,['leadership']
+DESIGNER,0.08608158000938824,[]
+AGRICULTURE,0.08429788563468628,"['excel', 'communication']"
+TEACHER,0.08420897634800725,['leadership']
+BPO,0.08331927807579427,"['excel', 'communication']"
+DIGITAL-MEDIA,0.08139581229601424,"['java', 'excel', 'leadership']"
+DIGITAL-MEDIA,0.0798686148132612,['communication']
+BPO,0.07330305331585055,"['excel', 'communication', 'leadership']"
+FITNESS,0.06955890802897738,['leadership']
+ENGINEERING,0.06598350340196904,"['java', 'communication']"
+AVIATION,0.058023128488145975,[]
+ADVOCATE,0.0,"['excel', 'leadership']"
+BUSINESS-DEVELOPMENT,0.0,[]
+BUSINESS-DEVELOPMENT,0.0,['leadership']
+DIGITAL-MEDIA,0.0,[]
+CHEF,0.0,[]
+DESIGNER,0.0,['excel']
+ENGINEERING,0.0,['leadership']
